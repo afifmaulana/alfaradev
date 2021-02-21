@@ -10,7 +10,7 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbar-wd">
                 <ul class="navbar-nav">
                     <li><a class="nav-link active" href="/">Home</a></li>
-                    <li><a class="nav-link" href="/about">Tentang</a></li>
+                    <li><a class="nav-link" href="/tentang-kami">Tentang</a></li>
                     <li><a class="nav-link" href="cycv.html">Layanan</a></li>
                     <li><a class="nav-link" href="contact.html">Portfolio</a></li>
                     <li><a class="nav-link" href="contact.html">Kontak</a></li>

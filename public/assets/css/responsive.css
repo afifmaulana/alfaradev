@@ -1,6 +1,9 @@
 /* only small desktops */
 /* tablets */
- @media (min-width: 992px) and (max-width: 1190px) {
+ @media (min-width: 992px) {
+     #bottom-nav {
+         display: none;
+     }
      .countdown{
          height: 285px;
     }
@@ -15,6 +18,10 @@
     }
      .slide_text {
          margin-top: 70px;
+    }
+    .search-box {
+        margin-top: 31px;
+        margin-right : -20px;
     }
 }
 /* only small tablets */
@@ -61,7 +68,7 @@
     }
      .search-box {
          top: 1px;
-         right: 75px;
+         right: 50px;
     }
      .search-btn {
          background: #111;
@@ -195,11 +202,11 @@
      .search-box {
          position: absolute;
          top: 0;
-         right: 50px;
+         right: 30px;
          height: auto;
          padding: 0;
          margin-top: 29px;
-         display: none;
+         /* display: none; */
     }
      a.navbar-brand {
          left: 0;

@@ -4,6 +4,7 @@
 <body id="home" data-spy="scroll" data-target="#navbar-wd" data-offset="98">
     <x-loading/>
     <x-navbar/>
+    <x-bottom-nav/>
     @yield('banner')
     @yield('content')
     <x-footer/>

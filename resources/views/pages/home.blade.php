@@ -1,5 +1,5 @@
 @extends('layout.app')
-@section('banner')
+{{-- @section('banner')
 <div class="ulockd-home-slider">
     <div class="container-fluid">
         <div class="row">
@@ -43,17 +43,17 @@
         </div>
     </div>
 </div>
-@endsection
+@endsection --}}
 
 @section('content')
-<div class="section layout_padding">
+<div class="section layout_padding light_bg">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="full center">
                     <div class="heading_main text_align_center">
-                        <h2><span class="theme_color">WE CAN</span> HELP YOUR CAREER GROW</h2>
-                        <p class="large">Get your CV Resume in 4 easy steps</p>
+                        <h2 class="text-color"><span class="theme_color">WE CAN</span> HELP YOUR CAREER GROW</h2>
+                        <p class="large text-color">Get your CV Resume in 4 easy steps</p>
                     </div>
                 </div>
             </div>
@@ -72,9 +72,9 @@
             </div>
 
             <div class="col-lg-6 col-md-6 col-sm-12 white_fonts">
-                <h3 class="small_heading">EVERYTHING YOU NEED IN ONE SOLUTION</h3>
-                <p>HELP YOUR NEXT CAREER MOVE MORE SMOOTHER AND MORE EFFICIENT</p>
-                <p>It is a long established fact that a reader will be distracted by the readable content of a page when
+                <h3 class="small_heading text-color">EVERYTHING YOU NEED IN ONE SOLUTION</h3>
+                <p class="text-color">HELP YOUR NEXT CAREER MOVE MORE SMOOTHER AND MORE EFFICIENT</p>
+                <p class="text-color">It is a long established fact that a reader will be distracted by the readable content of a page when
                     looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal
                     distribution of letters, as opposed to using 'Content here, content here', making it look like
                     readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their
@@ -87,15 +87,15 @@
 <!-- end section -->
 
 <!-- section -->
-<div class="section layout_padding">
+<div class="section layout_padding light_bg">
     <div class="container">
 
         <div class="row">
             <div class="col-md-12">
                 <div class="full center margin-bottom_30">
                     <div class="heading_main text_align_center">
-                        <h2><span class="theme_color">CHOOSE A</span> PROFESSIONAL DESIGN</h2>
-                        <p class="large">Resume</p>
+                        <h2 class="text-color"><span class="theme_color">CHOOSE A</span> PROFESSIONAL DESIGN</h2>
+                        <p class="large text-color">Resume</p>
                     </div>
                 </div>
             </div>
@@ -153,7 +153,7 @@
             </div>
 
             <div class="col-lg-12">
-                <p>It is a long established fact that a reader will be distracted by the readable content of a page when
+                <p class="text-color">It is a long established fact that a reader will be distracted by the readable content of a page when
                     looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal
                     distribution of letters, as opposed to using 'Content here, content here', making it look like
                     readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their
@@ -178,9 +178,9 @@
         <div class="row">
 
             <div class="col-lg-6 col-md-6 col-sm-12 white_fonts">
-                <h3 class="small_heading">CREATE PERSONALISED CV </h3>
-                <p>HELP YOUR NEXT CAREER MOVE MORE SMOOTHER AND MORE EFFICIENT</p>
-                <p>ss normal distribution of letters, as opposed to using 'Content here, content here', making it look
+                <h3 class="small_heading text-color">CREATE PERSONALISED CV </h3>
+                <p class="text-color">HELP YOUR NEXT CAREER MOVE MORE SMOOTHER AND MORE EFFICIENT</p>
+                <p class="text-color">ss normal distribution of letters, as opposed to using 'Content here, content here', making it look
                     like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as
                     their default model text, and a search for 'lorem ipsum' will uncover many web sites still in
                     theirss normal distribution of letters, as opposed to using 'Content here, content here', making it
@@ -199,15 +199,15 @@
 <!-- end section -->
 
 <!-- section -->
-<div class="section layout_padding">
+<div class="section layout_padding light_bg">
     <div class="container">
 
         <div class="row">
             <div class="col-md-12">
                 <div class="full center margin-bottom_30">
                     <div class="heading_main text_align_center">
-                        <h2><span class="theme_color">Mengapa</span> Harus Alfara Dev?</h2>
-                        <p class="large">Karena</p>
+                        <h2 class="text-color"><span class="theme_color">Mengapa</span> Harus Alfara Dev?</h2>
+                        <p class="large text-color">Karena</p>
                     </div>
                 </div>
             </div>
@@ -224,7 +224,7 @@
                         <h4>Pelayanan Ramah</h4>
                     </div>
                     <div class="center text-center">
-                        <h5>Kami akan memberikan pelayanan dengan ramah dan sabar kepada client kami, serta akan
+                        <h5 class="text-color">Kami akan memberikan pelayanan dengan ramah dan sabar kepada client kami, serta akan
                             memberikan solusi2 yang terbaik dari masalah yang di hadapi. Dan kami pun akan cepat dan
                             tanggap untuk melayani anda.</h5>
                     </div>
@@ -240,7 +240,7 @@
                         <h4>Berpengalaman</h4>
                     </div>
                     <div class="center text-center">
-                        <h5>AlfaraDev sudah berpengalaman dalam pengembangan Aplikasi dan Website sejak 2019, maka tepat
+                        <h5 class="text-color">AlfaraDev sudah berpengalaman dalam pengembangan Aplikasi dan Website sejak 2019, maka tepat
                             sekali jika anda memilih kami untuk berkerjasama. </h5>
                     </div>
                 </div>
@@ -259,7 +259,7 @@
                         <h4>Kualitas</h4>
                     </div>
                     <div class="center text-center">
-                        <h5>Kami akan memberikan service yang terbaik untuk para client kami, kualitas yang kami berikan
+                        <h5 class="text-color">Kami akan memberikan service yang terbaik untuk para client kami, kualitas yang kami berikan
                             juga pasti akan baik, tidak perlu di ragukan lagi.</h5>
                     </div>
                 </div>
@@ -274,7 +274,7 @@
                         <h4>Kualitas</h4>
                     </div>
                     <div class="center text-center">
-                        <h5>Kami akan memberikan service yang terbaik untuk para client kami, kualitas yang kami berikan
+                        <h5 class="text-color">Kami akan memberikan service yang terbaik untuk para client kami, kualitas yang kami berikan
                             juga pasti akan baik, tidak perlu di ragukan lagi.</h5>
                     </div>
                 </div>

@@ -1,7 +1,7 @@
 <header class="top-header">
     <nav class="navbar header-nav navbar-expand-lg">
         <div class="container-fluid">
-            <a class="navbar-brand" href="index.html"><img src="{{ asset('assets/images/alfaradev.png') }}" width="250" height="70"></a>
+            <a class="navbar-brand" href="/"><img src="{{ asset('assets/images/alfaradev.png') }}" width="250" height="70"></a>
             {{-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-wd" aria-controls="navbar-wd" aria-expanded="false" aria-label="Toggle navigation">
                 <span></span>
                 <span></span>
@@ -12,7 +12,7 @@
                     <li><a class="nav-link text-color active" href="/">Home</a></li>
                     <li><a class="nav-link text-color" href="/tentang-kami">Tentang</a></li>
                     <li><a class="nav-link text-color" href="/layanan-kami">Layanan</a></li>
-                    <li><a class="nav-link text-color" href="contact.html">Portfolio</a></li>
+                    <li><a class="nav-link text-color" href="/portfolio">Portfolio</a></li>
                     <li><a class="nav-link text-color" href="contact.html">Kontak</a></li>
                 </ul>
             </div>

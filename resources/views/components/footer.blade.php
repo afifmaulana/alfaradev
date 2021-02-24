@@ -67,11 +67,10 @@
             <div class="col-12">
                 <p class="crp text-color" > Copyright &copy; <script>document.write(new Date().getFullYear());</script> Alfara-Dev.com</p>
                 <ul class="bottom_menu">
-                    <li><a class="text-color" href="#">About Us</a></li>
-                    <li><a class="text-color" href="#">Find jobs</a></li>
-                    <li><a class="text-color" href="contact.html">Contact us</a></li>
-                    <li><a class="text-color" href="#">Terms of Service</a></li>
-                    <li><a class="text-color" href="#">Privacy</a></li>
+                    <li><a class="text-color" href="/tentang-kami">Tentang</a></li>
+                    <li><a class="text-color" href="/layanan-kami">Layanan</a></li>
+                    <li><a class="text-color" href="/portfolio">Portfolio</a></li>
+                    <li><a class="text-color" href="/kontak">Kontak</a></li>
                 </ul>
             </div>
         </div>

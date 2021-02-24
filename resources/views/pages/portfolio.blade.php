@@ -77,7 +77,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/webprofile.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#webprofile"><img class="img-responsive" src="{{ asset('assets/images/portfolio/web/webprofile.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Web Profile</h5>
@@ -91,7 +91,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/apotek.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#apotek"><img class="img-responsive" src="{{ asset('assets/images/portfolio/web/apotek.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Web Apotek</h5>
@@ -104,7 +104,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/fruitman.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#fruitman"><img class="img-responsive" src="{{ asset('assets/images/portfolio/web/fruitman.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Web Fruitman</h5>
@@ -117,7 +117,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/sim.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#sim"><img class="img-responsive" src="{{ asset('assets/images/portfolio/web/sim.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Web SIMPENDI</h5>
@@ -133,7 +133,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/travelme.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#travelme"><img class="img-responsive" src="{{ asset('assets/images/portfolio/web/travelme.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Web TravelMe</h5>
@@ -149,7 +149,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/wartegku.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#wartegku"><img class="img-responsive" src="{{ asset('assets/images/portfolio/web/wartegku.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Web WartegKu</h5>
@@ -165,7 +165,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/enews.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#enews"><img class="img-responsive" src="{{ asset('assets/images/portfolio/web/enews.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Web E-News</h5>
@@ -181,7 +181,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/evoting.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#evoting"><img class="img-responsive" src="{{ asset('assets/images/portfolio/web/evoting.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Web E-Voting OSIS</h5>
@@ -197,7 +197,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/gmc.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#gmc"><img class="img-responsive" src="{{ asset('assets/images/portfolio/web/gmc.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Web GMC</h5>
@@ -225,7 +225,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/android/donor.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#donor"><img class="img-responsive" src="{{ asset('assets/images/portfolio/android/donor.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Aplikasi Donor Darah</h5>
@@ -239,7 +239,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/android/travelme.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#travelmeapps"><img class="img-responsive" src="{{ asset('assets/images/portfolio/android/travelme.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Aplikasi TravelMe</h5>
@@ -253,7 +253,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/android/meeting.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#meeting"><img class="img-responsive" src="{{ asset('assets/images/portfolio/android/meeting.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Aplikasi Meeting</h5>
@@ -269,7 +269,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/android/enews.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#enewsapps"><img class="img-responsive" src="{{ asset('assets/images/portfolio/android/enews.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Aplikasi E-News</h5>
@@ -283,7 +283,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/android/fruitman.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#fruitmanapps"><img class="img-responsive" src="{{ asset('assets/images/portfolio/android/fruitman.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Aplikasi Fruitman</h5>
@@ -297,7 +297,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <img class="img-responsive" src="{{ asset('assets/images/portfolio/android/wartegku.png') }}" alt="#" width="280" height="180" />
+                                <a href="#" data-toggle="modal" data-target="#wartegkuapps"><img class="img-responsive" src="{{ asset('assets/images/portfolio/android/wartegku.png') }}" alt="#" width="280" height="180" /></a>
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Aplikasi WartegKu</h5>
@@ -311,7 +311,95 @@
                 </div>
             </div>
           </div>
+          <!-- Modal Web profile -->
+          <div class="modal fade" id="webprofile" tabindex="-1" role="dialog" aria-labelledby="webprofile" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
 
+                <div class="center mt-5">
+                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/webprofile.png') }}" width="1000" height="500" />
+                </div>
+            </div>
+          </div>
+
+          <!-- Modal Web Apotek -->
+          <div class="modal fade" id="apotek" tabindex="-1" role="dialog" aria-labelledby="apotek" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+
+                <div class="center mt-5">
+                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/apotek.png') }}" width="1000" height="500" />
+                </div>
+            </div>
+          </div>
+
+          <!-- Modal Web Fruitman -->
+          <div class="modal fade" id="fruitman" tabindex="-1" role="dialog" aria-labelledby="fruitman" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+
+                <div class="center mt-5">
+                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/fruitman.png') }}" width="1000" height="500" />
+                </div>
+            </div>
+          </div>
+
+          <!-- Modal Web sim -->
+          <div class="modal fade" id="sim" tabindex="-1" role="dialog" aria-labelledby="sim" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+
+                <div class="center mt-5">
+                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/sim.png') }}" width="1000" height="500" />
+                </div>
+            </div>
+          </div>
+
+          <!-- Modal Web travelme -->
+          <div class="modal fade" id="travelme" tabindex="-1" role="dialog" aria-labelledby="travelme" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+
+                <div class="center mt-5">
+                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/travelme.png') }}" width="1000" height="500" />
+                </div>
+            </div>
+          </div>
+
+          <!-- Modal Web wartegku -->
+          <div class="modal fade" id="wartegku" tabindex="-1" role="dialog" aria-labelledby="wartegku" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+
+                <div class="center mt-5">
+                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/wartegku.png') }}" width="1000" height="500" />
+                </div>
+            </div>
+          </div>
+
+          <!-- Modal Web enews -->
+          <div class="modal fade" id="enews" tabindex="-1" role="dialog" aria-labelledby="enews" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+
+                <div class="center mt-5">
+                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/enews.png') }}" width="1000" height="500" />
+                </div>
+            </div>
+          </div>
+
+          <!-- Modal Web evoting -->
+          <div class="modal fade" id="evoting" tabindex="-1" role="dialog" aria-labelledby="evoting" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+
+                <div class="center mt-5">
+                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/evoting.png') }}" width="1000" height="500" />
+                </div>
+            </div>
+          </div>
+
+          <!-- Modal Web gmc -->
+          <div class="modal fade" id="gmc" tabindex="-1" role="dialog" aria-labelledby="gmc" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+
+                <div class="center mt-5">
+                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/gmc.png') }}" width="1000" height="500" />
+                </div>
+            </div>
+          </div>
 
       </div>
   </div>

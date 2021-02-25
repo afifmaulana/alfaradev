@@ -1,2 +1,6 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
+
+a.bottom-nav-item:active {
+    background-color: #fff !important;
+}

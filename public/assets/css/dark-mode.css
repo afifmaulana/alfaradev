@@ -30,6 +30,10 @@
     color: #ECEFF1 !important;
   }
 
+  [data-theme="dark"] .top-header {
+    background-image: url('../images/header_img_darkmode.png');
+  }
+
   /* --color-scale-black: #010409;
     --color-scale-white: #f0f6fc;
     --color-scale-gray-0: #f0f6fc;

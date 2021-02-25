@@ -8,7 +8,7 @@
                   <div class="full center">
                       <div class="heading_main text_align_center">
                           <h2 class="text-color"><span class="theme_color">Portfolio </span>Kami</h2>
-                          <p class="large text-color">Websites dan Aplikasi Android</p>
+                          <p class="large text-color">Website dan Aplikasi Android</p>
                       </div>
                   </div>
               </div>
@@ -77,7 +77,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                         <div class="card shadow p-3 light_bg">
                             <div class="center">
-                                <a href="#" data-toggle="modal" data-target="#webprofile"><img class="img-responsive" src="{{ asset('assets/images/portfolio/web/webprofile.png') }}" alt="#" width="280" height="180" /></a>
+                                <img class="img-responsive img" data-img="{{ asset('assets/images/portfolio/web/webprofile.png') }}" src="{{ asset('assets/images/portfolio/web/webprofile.png') }}" alt="#" width="280" height="180" />
                             </div>
                             <div class="card-body">
                             <h5 class="card-title text-color">Web Profile</h5>
@@ -311,97 +311,26 @@
                 </div>
             </div>
           </div>
-          <!-- Modal Web profile -->
-          <div class="modal fade" id="webprofile" tabindex="-1" role="dialog" aria-labelledby="webprofile" aria-hidden="true">
-            <div class="modal-dialog modal-lg" role="document">
-
-                <div class="center mt-5">
-                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/webprofile.png') }}" width="1000" height="500" />
-                </div>
-            </div>
-          </div>
-
-          <!-- Modal Web Apotek -->
-          <div class="modal fade" id="apotek" tabindex="-1" role="dialog" aria-labelledby="apotek" aria-hidden="true">
-            <div class="modal-dialog modal-lg" role="document">
-
-                <div class="center mt-5">
-                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/apotek.png') }}" width="1000" height="500" />
-                </div>
-            </div>
-          </div>
-
-          <!-- Modal Web Fruitman -->
-          <div class="modal fade" id="fruitman" tabindex="-1" role="dialog" aria-labelledby="fruitman" aria-hidden="true">
-            <div class="modal-dialog modal-lg" role="document">
-
-                <div class="center mt-5">
-                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/fruitman.png') }}" width="1000" height="500" />
-                </div>
-            </div>
-          </div>
-
-          <!-- Modal Web sim -->
-          <div class="modal fade" id="sim" tabindex="-1" role="dialog" aria-labelledby="sim" aria-hidden="true">
-            <div class="modal-dialog modal-lg" role="document">
-
-                <div class="center mt-5">
-                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/sim.png') }}" width="1000" height="500" />
-                </div>
-            </div>
-          </div>
-
-          <!-- Modal Web travelme -->
-          <div class="modal fade" id="travelme" tabindex="-1" role="dialog" aria-labelledby="travelme" aria-hidden="true">
-            <div class="modal-dialog modal-lg" role="document">
-
-                <div class="center mt-5">
-                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/travelme.png') }}" width="1000" height="500" />
-                </div>
-            </div>
-          </div>
-
-          <!-- Modal Web wartegku -->
-          <div class="modal fade" id="wartegku" tabindex="-1" role="dialog" aria-labelledby="wartegku" aria-hidden="true">
-            <div class="modal-dialog modal-lg" role="document">
-
-                <div class="center mt-5">
-                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/wartegku.png') }}" width="1000" height="500" />
-                </div>
-            </div>
-          </div>
-
-          <!-- Modal Web enews -->
-          <div class="modal fade" id="enews" tabindex="-1" role="dialog" aria-labelledby="enews" aria-hidden="true">
-            <div class="modal-dialog modal-lg" role="document">
-
-                <div class="center mt-5">
-                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/enews.png') }}" width="1000" height="500" />
-                </div>
-            </div>
-          </div>
-
-          <!-- Modal Web evoting -->
-          <div class="modal fade" id="evoting" tabindex="-1" role="dialog" aria-labelledby="evoting" aria-hidden="true">
-            <div class="modal-dialog modal-lg" role="document">
-
-                <div class="center mt-5">
-                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/evoting.png') }}" width="1000" height="500" />
-                </div>
-            </div>
-          </div>
-
-          <!-- Modal Web gmc -->
-          <div class="modal fade" id="gmc" tabindex="-1" role="dialog" aria-labelledby="gmc" aria-hidden="true">
-            <div class="modal-dialog modal-lg" role="document">
-
-                <div class="center mt-5">
-                    <img class="img-responsive" src="{{ asset('assets/images/portfolio/web/gmc.png') }}" width="1000" height="500" />
-                </div>
-            </div>
-          </div>
-
       </div>
   </div>
+
+  <!-- Modal Web profile -->
+  <div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="center mt-5">
+            <img class="img-responsive" id="img-preview" width="1000" height="500" />
+        </div>
+    </div>
+  </div>
 @endsection
+
+@push('scripts')
+    <script>
+        $(document).on('click', '.img', function() {
+            var img = $(this).data('img');
+            $('#img-preview').attr('src', img);
+            $('#modal').modal('show')
+        });
+    </script>
+@endpush
 

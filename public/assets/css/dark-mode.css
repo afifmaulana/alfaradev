@@ -7,13 +7,13 @@
   }
 
   [data-theme="dark"] .top-header {
-    background-color: #161b22 !important;
     background-image: none;
+    background-color: #161b22 !important;
   }
 
-  [data-theme="dark"] .top-header a.navbar-brand {
+  /* [data-theme="dark"] .top-header a.navbar-brand {
     background-color: #161b22 !important;
-  }
+  } */
 
   [data-theme="dark"] .text-color {
     color: #8b949e !important;

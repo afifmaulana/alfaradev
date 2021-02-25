@@ -8,7 +8,7 @@
                   <div class="full center">
                       <div class="heading_main text_align_center">
                           <h2 class="text-color"><span class="theme_color">Portfolio </span>Kami</h2>
-                          <p class="large text-color">Website dan Aplikasi Android</p>
+                          <p class="large text-color">Websites dan Aplikasi Android</p>
                       </div>
                   </div>
               </div>

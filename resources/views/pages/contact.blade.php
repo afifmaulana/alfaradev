@@ -71,7 +71,7 @@
                       </div>
                       <div class="media-body dit-right">
                           <h4 class="text-color">Alamat</h4>
-                          <p class="text-color">Desa blablabla Kota Tegal</p>
+                          <p class="text-color">JL. P. Kemerdekaan GG Raharjo 1 RT 04/RW 12 Panggung Kec. Tegal Timur Kota Tegal, Jawa Tengah</p>
                       </div>
                   </div>
                   <div class="media cont-line">
@@ -80,7 +80,7 @@
                       </div>
                       <div class="media-body dit-right">
                           <h4 class="text-color">Email</h4>
-                          <a href="#" class="text-color">cs@alfara-dev.com</a><br>
+                          <a href="#" class="text-color">marketing@alfara-dev.com</a><br>
                       </div>
                   </div>
                   <div class="media cont-line">
@@ -89,7 +89,7 @@
                       </div>
                       <div class="media-body dit-right">
                           <h4 class="text-color">Nomor Telepon</h4>
-                          <a href="#" class="text-color">12345 67890</a><br>
+                          <a href="#" class="text-color">+62 851 5680 5245</a><br>
                       </div>
                   </div>
               </div>

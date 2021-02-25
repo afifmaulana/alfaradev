@@ -4,11 +4,11 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="logo">
-                    <a href="/"><img src="{{ asset('assets/images/alfara.png') }}" height="100" width="300" /></a>
+                    <a href="/"><img src="{{ asset('assets/images/alfara.png') }}" height="100" width="240" /></a>
                 </div>
             </div>
             <div class="col-lg-12 white_fonts">
-                <h4 class="text-align text-color">Contact Us</h4>
+                <h4 class="text-align text-color">Hubungi Kami</h4>
             </div>
             <div class="margin-top_30 col-md-8 offset-md-2 white_fonts">
                 <div class="row">
@@ -17,8 +17,7 @@
                             <img src="{{ asset('assets/images/social1.png') }}">
                         </div>
                         <div class="full white_fonts text_align_center">
-                            <p class="text-color">Tegal
-                                <br>United Kingdom</p>
+                            <p class="text-color">Panggung Kec. Tegal Timur, Kota Tegal, Jawa Tengah
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -26,8 +25,7 @@
                             <img src="{{ asset('assets/images/social2.png') }}">
                         </div>
                         <div class="full white_fonts text_align_center">
-                            <p class="text-color">cs@alfara-dev.com
-                                <br>admin@alfara-dev.com</p>
+                            <p class="text-color">marketing@alfara-dev.com
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -35,8 +33,8 @@
                             <img src="{{ asset('assets/images/social3.png') }}">
                         </div>
                         <div class="full white_fonts text_align_center">
-                            <p class="text-color">+62 828 3938 0093
-                                <br>+62 828 3938 0093</p>
+                            <p class="text-color">+62 851 5680 5245
+
                         </div>
                     </div>
                 </div>
@@ -48,10 +46,10 @@
                 <div class="full">
                     <div class="center">
                         <ul class="social_icon">
-                            <li><a class="bg_icon" href="#"><i class="fa fa-facebook-f"></i></a></li>
-                            <li><a class="bg_icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a class="bg_icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a class="bg_icon" href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a class="bg_icon" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a class="bg_icon" href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a class="bg_icon" href="#"><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="bg_icon" href="#"><i class="fab fa-google-plus"></i></a></li>
                         </ul>
                     </div>
                 </div>

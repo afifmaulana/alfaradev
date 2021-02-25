@@ -1414,7 +1414,7 @@ LOADER
  ul.social_icon li a {
      width: 35px;
      height: 35px;
-     background: #fff;
+     background: rgb(26, 46, 77);
      float: left;
      border-radius: 100%;
 }

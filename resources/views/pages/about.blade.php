@@ -83,7 +83,7 @@
                       <div class="center text-center">
                           <h5 class="text-color">
                               Setelah proses analisa dan perancangan, tim kami akan segera melakukan proses pengkodean atau programming
-                              dari mulai templating/layouting hinggan sistem jadi.
+                              dari mulai templating/layouting hingga sistem jadi.
                           </h5>
                       </div>
                   </div>

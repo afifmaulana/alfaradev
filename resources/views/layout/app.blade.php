@@ -10,5 +10,6 @@
     <x-footer/>
     <a href="#" id="scroll-to-top" class="hvr-radial-out"><i class="fa fa-angle-up"></i></a>
     <x-script/>
+    @stack('scripts')
 </body>
 </html>

@@ -101,6 +101,7 @@
 }
 /* mobile or only mobile */
  @media (max-width: 767px) {
+    
      .navbar-brand{
          margin-left: 10px;
          margin-right: 10px;

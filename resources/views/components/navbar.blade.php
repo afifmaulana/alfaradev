@@ -1,7 +1,9 @@
 <header class="top-header">
     <nav class="navbar header-nav navbar-expand-lg">
         <div class="container-fluid">
-            <a class="navbar-brand" href="/"><img src="{{ asset('assets/images/alfaradev.png') }}" width="250" height="70"></a>
+            <a class="navbar-brand" href="/">
+                <img src="{{ asset('assets/images/alfaradev.png') }}" width="250" height="70">
+            </a>
             {{-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-wd" aria-controls="navbar-wd" aria-expanded="false" aria-label="Toggle navigation">
                 <span></span>
                 <span></span>

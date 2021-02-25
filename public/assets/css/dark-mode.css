@@ -8,6 +8,7 @@
 
   [data-theme="dark"] .top-header {
     background-color: #161b22 !important;
+    background-image: none;
   }
 
   [data-theme="dark"] .top-header a.navbar-brand {
@@ -28,10 +29,6 @@
 
   [data-theme="dark"] .nav-link:hover {
     color: #ECEFF1 !important;
-  }
-
-  [data-theme="dark"] .top-header {
-    background-image: url('../images/header_img_darkmode.png');
   }
 
   /* --color-scale-black: #010409;

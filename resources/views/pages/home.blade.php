@@ -206,7 +206,7 @@
                 <div class="full center margin-bottom_30">
                     <div class="heading_main text_align_center">
                         <h2 class="text-color"><span class="theme_color">Mengapa</span> Harus Alfara Dev?</h2>
-                        <p class="large text-color">Karena</p>
+                        <p class="large text-color">Karena kami</p>
                     </div>
                 </div>
             </div>

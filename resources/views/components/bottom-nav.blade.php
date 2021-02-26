@@ -1,4 +1,4 @@
-<nav id="bottom-nav" class="navbar fixed-bottom navbar-light theme_bg border-white border-top p-2">
+<nav id="bottom-nav" class="navbar fixed-bottom navbar-light theme_bg border-white border-top p-3">
     <div class="d-flex w-100 justify-content-around white_fonts">
         <a href="/" class="bottom-nav-item" data-toggle="tooltip" data-placement="bottom" title="Beranda">
             <div class="text-center text-color">

@@ -28,7 +28,7 @@
 
               <div class="col-lg-6 col-md-6 col-sm-12 white_fonts">
                   <h3 class="small_heading text-color">Tentang ALFARA DEV</h3>
-                  <p class="text-justify text-color">Alfara Dev merupakan Portfolio dari Helfanza Nanda Alfara yang menerima  jasa pembuatan website yang bertempat di kota tegal.
+                  <p class="text-justify text-color">Alfara Dev merupakan komunitas dari Tegal dan Brebes yang menerima  jasa pembuatan website yang bertempat di kota tegal.
                       Alfara Dev memiliki tim yang profesional dalam pembuatan website, kami selalu memberikan yang terbaik
                       kepada klien kami. Sudah banyak project yang sudah kami selesaikan baik itu website maupun aplikasi android. Terima kasih sudah mempercayakan kami dalam menyesaikan masalah dalam kebutuhan bisnis anda.
                       Kami akan selalu memberikan yang terbaik kepada klien kami.</p>

@@ -1,49 +1,5 @@
 @extends('layout.app')
-{{-- @section('banner')
-<div class="ulockd-home-slider">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="pogoSlider" id="js-main-slider">
-                <div class="pogoSlider-slide" style="background-image:url({{ asset('assets/images/slider-01.jpg') }});">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="slide_text">
-                                    <h3><span class="theme_color">ALFARA</span> DEV</h3>
-                                    <br>
-                                    <h4>Jasa Pembuatan Website<br> dan Aplikasi Android</h4>
-                                    <br>
-                                    <p><strong>Permudah Pekerjaan/Bisnis Anda
-                                            <br>dengan memakai Website dan Aplikasi Android</strong></p>
-                                    <a class="contact_bt" href="#">Hubungi Kami</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="pogoSlider-slide" style="background-image:url({{ asset('assets/images/slider-01.jpg') }});">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="slide_text">
-                                    <h3><span class="theme_color">ALFARA</span> DEV</h3>
-                                    <br>
-                                    <h4>Jasa Pembuatan<br>Website & Aplikasi Android</h4>
-                                    <br>
-                                    <p><strong>Permudah Pekerjaan/Bisnis Anda
-                                            <br>dengan memakai Website dan Aplikasi Android</strong></p>
-                                    <a class="contact_bt" href="#">Hubungi Kami</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- .pogoSlider -->
-        </div>
-    </div>
-</div>
-@endsection --}}
+
 
 @section('content')
 <div class="section layout_padding light_bg">
@@ -73,7 +29,7 @@
 
             <div class="col-lg-6 col-md-6 col-sm-12 white_fonts">
                 <h3 class="small_heading text-color">Alfara Dev</h3>
-                <p class="text-color text-justify">Alfara Dev merupakan Portfolio dari Helfanza Nanda Alfara yang menerima  jasa pembuatan website dan android yang bertempat di kota tegal.
+                <p class="text-color text-justify">Alfara Dev merupakan komunitas dari Tegal dan Brebes yang menerima  jasa pembuatan website dan android yang bertempat di kota tegal.
                     Alfara Dev memiliki tim yang profesional dalam pembuatan website, kami selalu memberikan yang terbaik
                     kepada klien kami. Sudah banyak project yang sudah kami selesaikan.
                     Terima kasih sudah mempercayakan kami dalam menyesaikan masalah dalam kebutuhan bisnis anda.

@@ -12,7 +12,7 @@
     <meta name="author" content="www.alfara-dev.com">
 
     <!-- Site Icons -->
-    <link rel="shortcut icon" href="#" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}" type="image/x-icon" />
     <link rel="apple-touch-icon" href="#" />
 
     <!-- Bootstrap CSS -->
@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/custom.css') }}">
-    
+
     <link rel="stylesheet" href="{{ asset('assets/css/toggle-switcher.css') }}">
 
     <link rel="stylesheet" href="{{ asset('assets/css/dark-mode.css') }}">

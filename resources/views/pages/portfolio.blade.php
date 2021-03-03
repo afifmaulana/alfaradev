@@ -29,7 +29,7 @@
               <div class="col-lg-6 col-md-6 col-sm-12 white_fonts">
                   <h3 class="small_heading text-color">Portfolio ALFARA DEV</h3>
                   <p class="text-justify text-color">
-                      Kami telah berpengalaman dalam membuat sebuah website dan aplikasi Android dari tahun 2019,
+                      Alfara Dev telah berpengalaman dalam membuat sebuah website dan aplikasi Android dari tahun 2019,
                        web yang telah kami buat meliputi, Web Profile, Web E-Commerce, Web POS, Web GIS, Web, dll.
                        Kami dapat membantu permasalahan bisnis/perusahaan Anda untuk membuat sebuah sistem yang dapat
                        mempermudah pekerjaan Anda.

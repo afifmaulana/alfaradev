@@ -7,7 +7,7 @@
               <div class="col-md-12">
                   <div class="full center">
                       <div class="heading_main text_align_center">
-                          <h2 class="text-color"><span class="theme_color">Layanan </span>Kami</h2>
+                          <h2 class="text-color"><span class="theme_color">Daftar Harga </span>Kami</h2>
                           <p class="large text-color">Website dan Aplikasi Android</p>
                       </div>
                   </div>
@@ -27,9 +27,9 @@
               </div>
 
               <div class="col-lg-6 col-md-6 col-sm-12 white_fonts">
-                  <h3 class="small_heading text-color">Layanan ALFARA DEV</h3>
+                  <h3 class="small_heading text-color">Daftar Harga ALFARA DEV</h3>
                   <p class="text-justify text-color">
-                      Alfara Dev mempunyai alur sistem pengerjaan sebuah proyek yang bertujuan agar menghasilkan website atau aplikasi Android yang berkualitas tanpa adanya bugs atau error, dan yang terpenting sesuai dengan kebutuhan Anda.
+                      Kami Alfara Dev mempunyai beberapa daftar harga yang sangat terjangkau.
                   </p>
                   <a href="#" class="hvr-radial-out button-theme">Hubungi Kami ></a>
               </div>

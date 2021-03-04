@@ -29,7 +29,7 @@
 
             <div class="col-lg-6 col-md-6 col-sm-12 white_fonts">
                 <h3 class="small_heading text-color">Alfara Dev</h3>
-                <p class="text-color text-justify">Alfara Dev merupakan komunitas dari Tegal dan Brebes yang menerima  jasa pembuatan website dan android yang bertempat di kota tegal.
+                <p class="text-color text-justify">Alfara Dev merupakan tim Web Developer yang menerima  jasa pembuatan website dan android yang bertempat di kota tegal.
                     Alfara Dev memiliki tim yang profesional dalam pembuatan website, kami selalu memberikan yang terbaik
                     kepada klien kami. Sudah banyak project yang sudah kami selesaikan.
                     Terima kasih sudah mempercayakan kami dalam menyesaikan masalah dalam kebutuhan bisnis anda.

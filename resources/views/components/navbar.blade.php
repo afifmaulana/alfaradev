@@ -15,6 +15,7 @@
                     <li><a class="nav-link text-color" href="/tentang-kami">Tentang</a></li>
                     <li><a class="nav-link text-color" href="/layanan-kami">Layanan</a></li>
                     <li><a class="nav-link text-color" href="/portfolio">Portfolio</a></li>
+                    {{-- <li><a class="nav-link text-color" href="/harga">Pricing</a></li> --}}
                     <li><a class="nav-link text-color" href="/kontak">Kontak</a></li>
                 </ul>
             </div>

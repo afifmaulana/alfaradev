@@ -1543,7 +1543,7 @@ section.pricing {
       opacity: 1;
     }
 
-    .text-nav-bottom{
-        font-size: 8px;
-    }
   }
+  .text-nav-bottom{
+    font-size: 12px;
+}

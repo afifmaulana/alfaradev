@@ -26,7 +26,7 @@
         </a>
         <a href="/harga">
             <div class="text-center text-color">
-                <i class="fa fa-paper-plane"></i>
+                <i class="fas fa-dollar"></i>
                 <div class="text-color text-nav-bottom">Harga</div>
             </div>
         </a>

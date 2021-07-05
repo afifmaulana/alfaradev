@@ -68,6 +68,7 @@
                     <li><a class="text-color" href="/tentang-kami">Tentang</a></li>
                     <li><a class="text-color" href="/layanan-kami">Layanan</a></li>
                     <li><a class="text-color" href="/portfolio">Portfolio</a></li>
+                    <li><a class="text-color" href="/harga">Harga</a></li>
                     <li><a class="text-color" href="/kontak">Kontak</a></li>
                 </ul>
             </div>

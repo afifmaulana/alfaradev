@@ -1542,4 +1542,8 @@ section.pricing {
     .pricing .card:hover .btn {
       opacity: 1;
     }
+
+    .text-nav-bottom{
+        font-size: 8px;
+    }
   }

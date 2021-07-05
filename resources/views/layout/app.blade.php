@@ -2,7 +2,7 @@
 <html lang="en">
 <x-head/>
 <body id="home" data-spy="scroll" data-target="#navbar-wd" data-offset="98">
-    <x-loading/>
+    {{-- <x-loading/> --}}
     <x-navbar/>
     <x-bottom-nav/>
     @yield('banner')

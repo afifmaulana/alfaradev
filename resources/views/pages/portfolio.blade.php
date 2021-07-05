@@ -34,7 +34,7 @@
                        Kami dapat membantu permasalahan bisnis/perusahaan Anda untuk membuat sebuah sistem yang dapat
                        mempermudah pekerjaan Anda.
                   </p>
-                  <a href="#" class="hvr-radial-out button-theme">Contact Us ></a>
+                  <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20jasa%20Anda,%20boleh%20saya%20tanya-tanya%20dulu?" class="hvr-radial-out button-theme">Hubungi Kami ></a>
               </div>
           </div>
       </div>

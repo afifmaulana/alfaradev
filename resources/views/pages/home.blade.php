@@ -1,7 +1,53 @@
 @extends('layout.app')
 
-
 @section('content')
+
+<!-- Start Banner -->
+<div class="ulockd-home-slider">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="pogoSlider" id="js-main-slider">
+                <div class="pogoSlider-slide" style="background-image:url({{ asset('assets/images/slider-02.jpg') }});">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="slide_text">
+                                    <h3><span class="theme_color">Alfara</span> Dev</h3>
+                                    <br>
+                                    <h4>Jasa Pembuatan <br>Website</h4>
+                                    <br>
+                                    <p>Buat bisnis Anda menjadi lebih profesional
+                                        <br> dengan mempunyai sebuah website.</p>
+                                    <a class="contact_bt" href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20jasa%20Anda,%20boleh%20saya%20tanya-tanya%20dulu?">Hubungi Kami</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pogoSlider-slide" style="background-image:url({{ asset('assets/images/slider-01.jpg') }});">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="slide_text">
+                                    <h3><span class="theme_color">Aplikasi</span> Android</h3>
+                                    <br>
+                                    <h4>Onlinekan<br> Bisnismu segera!</h4>
+                                    <br>
+                                    <p>Kami juga melayani jasa untuk pembuatan
+                                        <br>Aplikasi Android</p>
+                                    <a class="contact_bt" href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20jasa%20Anda,%20boleh%20saya%20tanya-tanya%20dulu?">Hubungi Kami</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- .pogoSlider -->
+        </div>
+    </div>
+</div>
+<!-- End Banner -->
+
 <div class="section layout_padding light_bg">
     <div class="container">
         <div class="row">
@@ -34,7 +80,7 @@
                     kepada klien kami. Sudah banyak project yang sudah kami selesaikan.
                     Terima kasih sudah mempercayakan kami dalam menyesaikan masalah dalam kebutuhan bisnis anda.
                     Kami akan selalu memberikan yang terbaik kepada klien kami.</p>
-                <a href="#" class="hvr-radial-out button-theme">Hubungi Kami ></a>
+                <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20jasa%20Anda,%20boleh%20saya%20tanya-tanya%20dulu?" class="hvr-radial-out button-theme">Hubungi Kami ></a>
             </div>
         </div>
     </div>

@@ -43,7 +43,7 @@
                               <div class="card mb-5 mb-lg-0 light_bg">
                                 <div class="card-body">
                                   <h5 class="card-title text-muted text-uppercase text-center">Basic</h5>
-                                  <h6 class="card-price text-center text-color">Rp. 1.000.000,-</h6>
+                                  <h2 class="text-center text-color">Rp. 1.000.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Custom Design</li>
@@ -55,7 +55,7 @@
                                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Maintenance</li>
                                     <li><span class="fa-li"><i class="fas fa-times"></i></span>Akses CPanel</li>
                                   </ul>
-                                  <a href="#" class="btn btn-block btn-primary text-uppercase">Pesan</a>
+                                  <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Basic%20Company%20Profile." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
                               </div>
                             </div>
@@ -64,7 +64,7 @@
                               <div class="card mb-5 mb-lg-0 light_bg">
                                 <div class="card-body">
                                   <h5 class="card-title text-muted text-uppercase text-center">Standart</h5>
-                                  <h6 class="card-price text-center text-color">Rp. 2.000.000,-</h6>
+                                  <h2 class="text-center text-color">Rp. 2.000.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Custom Design</li>
@@ -76,7 +76,7 @@
                                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Maintenance</li>
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Akses CPanel</li>
                                   </ul>
-                                  <a href="#" class="btn btn-block btn-primary text-uppercase">Pesan</a>
+                                  <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Standart%20Company%20Profile." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
                               </div>
                             </div>
@@ -85,7 +85,7 @@
                               <div class="card light_bg">
                                 <div class="card-body">
                                   <h5 class="card-title text-muted text-uppercase text-center">Premium</h5>
-                                  <h6 class="card-price text-center text-color">Rp. 3.500.000,-</h6>
+                                  <h2 class="text-center text-color">Rp. 3.500.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Custom Design</li>
@@ -97,7 +97,7 @@
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Maintenance (1 Bulan)</li>
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Akses CPanel</li>
                                   </ul>
-                                  <a href="#" class="btn btn-block btn-primary text-uppercase">Pesan</a>
+                                  <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Premium%20Company%20Profile." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
                               </div>
                             </div>
@@ -118,7 +118,7 @@
                               <div class="card mb-5 mb-lg-0 light_bg">
                                 <div class="card-body">
                                   <h5 class="card-title text-muted text-uppercase text-center">Basic</h5>
-                                  <h6 class="card-price text-center text-color">Rp. 1.500.000,-</h6>
+                                  <h2 class="text-center text-color">Rp. 1.500.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Custom Design</li>
@@ -130,7 +130,7 @@
                                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Maintenance</li>
                                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Akses CPanel</li>
                                   </ul>
-                                  <a href="#" class="btn btn-block btn-primary text-uppercase">Pesan</a>
+                                  <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Basic%20Pembuatan%20Admin%20Panel." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
                               </div>
                             </div>
@@ -139,7 +139,7 @@
                               <div class="card mb-5 mb-lg-0 light_bg">
                                 <div class="card-body">
                                   <h5 class="card-title text-muted text-uppercase text-center">Standart</h5>
-                                  <h6 class="card-price text-center text-color">Rp. 3.500.000,-</h6>
+                                  <h2 class="text-center text-color">Rp. 3.500.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Custom Design</li>
@@ -151,7 +151,7 @@
                                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Maintenance</li>
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Akses CPanel</li>
                                   </ul>
-                                  <a href="#" class="btn btn-block btn-primary text-uppercase">Pesan</a>
+                                  <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Standart%20Pembuatan%20Admin%20Panel." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
                               </div>
                             </div>
@@ -160,7 +160,7 @@
                               <div class="card light_bg">
                                 <div class="card-body">
                                   <h5 class="card-title text-muted text-uppercase text-center">Premium</h5>
-                                  <h6 class="card-price text-center text-color">Rp. 5.000.000,-</h6>
+                                  <h2 class="text-center text-color">Rp. 5.000.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Custom Design</li>
@@ -172,7 +172,7 @@
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Maintenance (1 Bulan)</li>
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Akses CPanel</li>
                                   </ul>
-                                  <a href="#" class="btn btn-block btn-primary text-uppercase">Pesan</a>
+                                  <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Premium%20Pembuatan%20Admin%20Panel." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
                               </div>
                             </div>

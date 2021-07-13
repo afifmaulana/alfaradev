@@ -11,12 +11,12 @@
             </button> --}}
             <div class="collapse navbar-collapse justify-content-end" id="navbar-wd">
                 <ul class="navbar-nav">
-                    <li><a class="nav-link text-color active" href="/">Home</a></li>
-                    <li><a class="nav-link text-color" href="/tentang-kami">Tentang</a></li>
-                    <li><a class="nav-link text-color" href="/layanan-kami">Layanan</a></li>
-                    <li><a class="nav-link text-color" href="/portfolio">Portfolio</a></li>
-                    <li><a class="nav-link text-color" href="/harga">Harga</a></li>
-                    <li><a class="nav-link text-color" href="/kontak">Kontak</a></li>
+                    <li><a class="nav-link text-color active" href="{{ url('/') }}">Home</a></li>
+                    <li><a class="nav-link text-color" href="{{ url('tentang-kami') }}">Tentang</a></li>
+                    <li><a class="nav-link text-color" href="{{ url('layanan-kami') }}">Layanan</a></li>
+                    <li><a class="nav-link text-color" href="{{ url('portfolio') }}">Portfolio</a></li>
+                    <li><a class="nav-link text-color" href="{{ url('harga') }}">Harga</a></li>
+                    <li><a class="nav-link text-color" href="{{ url('kontak') }}">Kontak</a></li>
                 </ul>
             </div>
             <div class="search-box">
@@ -30,3 +30,4 @@
         </div>
     </nav>
 </header>
+

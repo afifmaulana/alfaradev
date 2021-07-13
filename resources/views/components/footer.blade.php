@@ -48,7 +48,7 @@
                         <ul class="social_icon">
                             <li><a class="bg_icon" href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a class="bg_icon" href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="bg_icon" href="#"><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="bg_icon" href="https://www.instagram.com/alfaradev/" target="_blank"><i class="fab fa-instagram"></i></a></li>
                             <li><a class="bg_icon" href="#"><i class="fab fa-google-plus"></i></a></li>
                         </ul>
                     </div>
@@ -63,7 +63,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <p class="crp text-color" > Copyright &copy; <script>document.write(new Date().getFullYear());</script> Alfara-Dev.com</p>
+                <p class="crp text-color"> Copyright &copy; <script>document.write(new Date().getFullYear());</script> Alfara-Dev.com</p>
                 <ul class="bottom_menu">
                     <li><a class="text-color" href="/tentang-kami">Tentang</a></li>
                     <li><a class="text-color" href="/layanan-kami">Layanan</a></li>

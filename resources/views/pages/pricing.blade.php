@@ -54,6 +54,7 @@
                                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Admin Panel</li>
                                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Maintenance</li>
                                     <li><span class="fa-li"><i class="fas fa-times"></i></span>Akses CPanel</li>
+                                    <li><span class="fa-li"><i class="fas fa-times"></i></span>Garansi</li>
                                   </ul>
                                   <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Basic%20Company%20Profile." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
@@ -75,6 +76,7 @@
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Admin Panel</li>
                                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Maintenance</li>
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Akses CPanel</li>
+                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Garansi 2 Minggu</li>
                                   </ul>
                                   <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Standart%20Company%20Profile." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
@@ -96,6 +98,8 @@
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Admin Panel</li>
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Maintenance (1 Bulan)</li>
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Akses CPanel</li>
+                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Garansi 1 Bulan</li>
+
                                   </ul>
                                   <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Premium%20Company%20Profile." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
@@ -129,6 +133,7 @@
                                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Landing Page</li>
                                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Maintenance</li>
                                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Akses CPanel</li>
+                                    <li><span class="fa-li"><i class="fas fa-times"></i></span>Garansi</li>
                                   </ul>
                                   <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Basic%20Pembuatan%20Admin%20Panel." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
@@ -150,6 +155,7 @@
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Landing Page</li>
                                     <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Maintenance</li>
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Akses CPanel</li>
+                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Garansi 3 Minggu</li>
                                   </ul>
                                   <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Standart%20Pembuatan%20Admin%20Panel." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
@@ -171,6 +177,7 @@
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Landing Page</li>
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Maintenance (1 Bulan)</li>
                                     <li><span class="fa-li"><i class="fas fa-check"></i></span>Akses CPanel</li>
+                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Garansi 2 Bulan</li>
                                   </ul>
                                   <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Premium%20Pembuatan%20Admin%20Panel." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>

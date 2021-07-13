@@ -11,12 +11,12 @@
             </button> --}}
             <div class="collapse navbar-collapse justify-content-end" id="navbar-wd">
                 <ul class="navbar-nav">
-                    <li><a class="nav-link text-color active" href="{{ url('/') }}">Home</a></li>
-                    <li><a class="nav-link text-color" href="{{ url('tentang-kami') }}">Tentang</a></li>
-                    <li><a class="nav-link text-color" href="{{ url('layanan-kami') }}">Layanan</a></li>
-                    <li><a class="nav-link text-color" href="{{ url('portfolio') }}">Portfolio</a></li>
-                    <li><a class="nav-link text-color" href="{{ url('harga') }}">Harga</a></li>
-                    <li><a class="nav-link text-color" href="{{ url('kontak') }}">Kontak</a></li>
+                    <li><a class="nav-link text-color" style="{{ request()->is('/') ? 'border-bottom: solid 2px black' : '' }}" href="{{ url('/') }}">Home</a></li>
+                    <li><a class="nav-link text-color" style="{{ request()->is('tentang-kami') ? 'border-bottom: solid 2px black' : '' }}" href="{{ url('tentang-kami') }}">Tentang</a></li>
+                    <li><a class="nav-link text-color" style="{{ request()->is('layanan-kami') ? 'border-bottom: solid 2px black' : '' }}" href="{{ url('layanan-kami') }}">Layanan</a></li>
+                    <li><a class="nav-link text-color" style="{{ request()->is('portfolio') ? 'border-bottom: solid 2px black' : '' }}" href="{{ url('portfolio') }}">Portfolio</a></li>
+                    <li><a class="nav-link text-color" style="{{ request()->is('harga') ? 'border-bottom: solid 2px black' : '' }}" href="{{ url('harga') }}">Harga</a></li>
+                    <li><a class="nav-link text-color" style="{{ request()->is('kontak') ? 'border-bottom: solid 2px black' : '' }}" href="{{ url('kontak') }}">Kontak</a></li>
                 </ul>
             </div>
             <div class="search-box">

@@ -1,4 +1,24 @@
 <!-- Start Footer -->
+{{-- <div class="sosmed-button wrapper">
+    <ul>
+        <li class="whatsapp">
+            <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20jasa%20Anda,%20boleh%20saya%20tanya-tanya%20dulu?">
+                <i class="fa fa-whatsapp"></i>
+                <div class="slider">
+                    <p>WhatsApp</p>
+                </div>
+            </a>
+        </li>
+        <li class="instagram">
+            <a href="https://instagram.com/alfaradev/">
+                <i class="fa fa-instagram"></i>
+                <div class="slider">
+                    <p>Instagram</p>
+                </div>
+            </a>
+        </li>
+    </ul>
+</div> --}}
 <footer class="footer-box theme_bg">
     <div class="container">
         <div class="row">
@@ -48,7 +68,8 @@
                         <ul class="social_icon">
                             <li><a class="bg_icon" href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a class="bg_icon" href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="bg_icon" href="https://www.instagram.com/alfaradev/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                            <li><a class="bg_icon" href="https://www.instagram.com/alfaradev/" target="_blank"><i
+                                        class="fab fa-instagram"></i></a></li>
                             <li><a class="bg_icon" href="#"><i class="fab fa-google-plus"></i></a></li>
                         </ul>
                     </div>
@@ -63,7 +84,9 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <p class="crp text-color"> Copyright &copy; <script>document.write(new Date().getFullYear());</script> Alfara-Dev.com</p>
+                <script>
+                    document.write(new Date().getFullYear());
+                </script> Alfara-Dev.com</p>
                 <ul class="bottom_menu">
                     <li><a class="text-color" href="/tentang-kami">Tentang</a></li>
                     <li><a class="text-color" href="/layanan-kami">Layanan</a></li>

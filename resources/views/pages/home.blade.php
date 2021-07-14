@@ -18,7 +18,7 @@
                                     <br>
                                     <p>Buat bisnis Anda menjadi lebih profesional
                                         <br> dengan mempunyai sebuah website.</p>
-                                    <a class="contact_bt" href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20jasa%20Anda,%20boleh%20saya%20tanya-tanya%20dulu?">Hubungi Kami</a>
+                                    <a class="contact_bt" href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20jasa%20Anda,%20boleh%20saya%20tanya-tanya%20dulu?">Hubungi</a>
                                 </div>
                             </div>
                         </div>
@@ -35,7 +35,7 @@
                                     <br>
                                     <p>Kami juga melayani jasa untuk pembuatan
                                         <br>Aplikasi Android</p>
-                                    <a class="contact_bt" href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20jasa%20Anda,%20boleh%20saya%20tanya-tanya%20dulu?">Hubungi Kami</a>
+                                    <a class="contact_bt" href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20jasa%20Anda,%20boleh%20saya%20tanya-tanya%20dulu?">Hubungi</a>
                                 </div>
                             </div>
                         </div>

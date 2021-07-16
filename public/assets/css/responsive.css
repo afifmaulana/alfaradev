@@ -99,10 +99,17 @@
          margin-top: 5px;
          font-size: 13px;
     }
+    .sosmed-button.wrapper {
+        position: fixed;
+        top: 50%;
+        left: 6.8%;
+        z-index: 999;
+        transform: translate(-50%,-50%);
+    }
 }
 /* mobile or only mobile */
  @media (max-width: 767px) {
-    
+
      .navbar-brand{
          margin-left: 10px;
          margin-right: 10px;
@@ -267,5 +274,11 @@
      .heading_main h2 {
          font-size: 25px;
     }
+    .sosmed-button.wrapper {
+        position: fixed;
+        top: 50%;
+        left: 5.8%;
+        z-index: 999;
+        transform: translate(-50%,-50%);
+    }
 }
- 

@@ -26,7 +26,7 @@
         </a>
         <a href="{{ url('harga') }}" style="{{ request()->is('harga') ? 'border-bottom: solid 2px #2797db' : '' }}">
             <div class="text-center text-color">
-                <i class="fas fa-dollar" style="{{ request()->is('harga') ? 'color : #2797db' : '' }}"></i>
+                <i class="fa fa-dollar" style="{{ request()->is('harga') ? 'color : #2797db' : '' }}"></i>
                 <div class="text-color text-nav-bottom">Harga</div>
             </div>
         </a>

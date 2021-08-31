@@ -21,7 +21,7 @@
          margin-top: 70px;
     }
     .search-box {
-        margin-top: 31px;
+        margin-top: 21px;
         margin-right : -20px;
     }
 }
@@ -214,7 +214,7 @@
          right: 30px;
          height: auto;
          padding: 0;
-         margin-top: 29px;
+         margin-top: 19px;
          /* display: none; */
     }
      a.navbar-brand {

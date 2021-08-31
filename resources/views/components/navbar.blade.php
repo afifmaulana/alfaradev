@@ -2,7 +2,7 @@
     <nav class="navbar header-nav navbar-expand-lg">
         <div class="container-fluid">
             <a class="navbar-brand" href="/">
-                <img src="{{ asset('assets/images/alfaradev.png') }}" width="250" height="70">
+                <img id="logo" src="{{ asset('assets/images/alfaradev.png') }}" width="250" height="70">
             </a>
             {{-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-wd" aria-controls="navbar-wd" aria-expanded="false" aria-label="Toggle navigation">
                 <span></span>
@@ -19,7 +19,7 @@
                     <li><a class="nav-link text-color" style="{{ request()->is('kontak') ? 'border-bottom: solid 2px black' : '' }}" href="{{ url('kontak') }}">Kontak</a></li>
                 </ul>
             </div>
-            <div class="search-box">
+            <div class="search-box mb-5">
                 <i id="icon-light" class="fas fa-lightbulb"></i>
                 <label class="switch mx-1">
                     <input type="checkbox" id="dark-switch">

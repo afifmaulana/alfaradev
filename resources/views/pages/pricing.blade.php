@@ -47,7 +47,7 @@
                                   <hr>
                                   <ul class="fa-ul">
                                     <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Design</li>
-                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>5 Page</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Unlimited Page</li>
                                     <li><span class="fa-li"><i class="fa fa-check"></i></span>Free Hosting 750MB (1 Tahun)</li>
                                     <li><span class="fa-li"><i class="fa fa-check"></i></span>Free Domain .com (1 Tahun)</li>
                                     <li><span class="fa-li"><i class="fa fa-check"></i></span>2x Revisi</li>
@@ -64,7 +64,7 @@
                             <div class="col-lg-4">
                               <div class="card mb-5 mb-lg-0 light_bg">
                                 <div class="card-body">
-                                  <h5 class="card-title text-muted text-uppercase text-center">Standart</h5>
+                                  <h5 class="card-title text-muted text-uppercase text-center">Standard</h5>
                                   <h2 class="text-center text-color">Rp. 2.000.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
@@ -78,7 +78,7 @@
                                     <li><span class="fa-li"><i class="fa fa-check"></i></span>Akses CPanel</li>
                                     <li><span class="fa-li"><i class="fa fa-check"></i></span>Garansi 2 Minggu</li>
                                   </ul>
-                                  <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Standart%20Company%20Profile." class="btn btn-block btn-primary text-uppercase">Pesan</a>
+                                  <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Standard%20Company%20Profile." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
                               </div>
                             </div>
@@ -143,7 +143,7 @@
                             <div class="col-lg-4">
                               <div class="card mb-5 mb-lg-0 light_bg">
                                 <div class="card-body">
-                                  <h5 class="card-title text-muted text-uppercase text-center">Standart</h5>
+                                  <h5 class="card-title text-muted text-uppercase text-center">Standard</h5>
                                   <h2 class="text-center text-color">Rp. 3.500.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
@@ -157,7 +157,7 @@
                                     <li><span class="fa-li"><i class="fa fa-check"></i></span>Akses CPanel</li>
                                     <li><span class="fa-li"><i class="fa fa-check"></i></span>Garansi 3 Minggu</li>
                                   </ul>
-                                  <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Standart%20Pembuatan%20Admin%20Panel." class="btn btn-block btn-primary text-uppercase">Pesan</a>
+                                  <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Standard%20Pembuatan%20Admin%20Panel." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
                               </div>
                             </div>

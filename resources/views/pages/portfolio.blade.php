@@ -198,13 +198,16 @@
                 </li>
             </ul>
             <div class="tab-content" id="myTabContent">
+
+                <!------------ Portfolio Web ----------->
                 <div class="tab-pane fade show active" id="web" role="tabpanel" aria-labelledby="web-tab">
                     <div class="row">
                         <div class="col-12 center">
                             <h4 class="text-color">Jasa Pembuatan Website</h4>
                         </div>
                         <div class="col-12 center">
-                            <p class="text-color">Kami Melayani jasa pembuatan berbagai jenis Website, seperti di bawah ini
+                            <p class="text-color">Kami Melayani jasa pembuatan berbagai jenis Website, seperti di bawah
+                                ini
                                 :</p>
                         </div>
                     </div>
@@ -212,17 +215,14 @@
                         <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                             <div class="card shadow p-3 light_bg">
                                 <div class="center">
-                                    <a href="" data-toggle="modal" data-target="#masna"> <img
-                                            class="img-responsive img"
+                                    <a href="" data-toggle="modal" data-target="#masna"> <img class="img-responsive img"
                                             src="{{ asset('assets/images/portfolio/web/masna1.png') }}" alt="#"
                                             width="280" height="180" /></a>
                                 </div>
-                                <div class="card-body">
-                                    <h5 class="card-title text-color">Web Profile</h5>
-                                    <p class="card-text text-justify">Web Profile Masna merupakan sebuah web untuk seorang
-                                        Cosmetology Engineering dari Brebes, Jawa Tengah.
-                                    </p>
-                                    <a href="#" data-toggle="modal" data-target="#masna" class="btn btn-outline-primary">Lihat Detail</a>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Web Profile</h3>
+                                    <a href="#" data-toggle="modal" data-target="#masna"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -234,11 +234,10 @@
                                             src="{{ asset('assets/images/portfolio/web/apotek1.png') }}" alt="#"
                                             width="280" height="180" /></a>
                                 </div>
-                                <div class="card-body">
-                                    <h5 class="card-title text-color">Web Apotek</h5>
-                                    <p class="card-text text-justify">Sebuah Web untuk mengelola data obat di sebuah apotek,
-                                        dan juga penjualan di apotek di daerah Tegal Jawa Tengah</p>
-                                    <a href="#" data-toggle="modal" data-target="#apotek" class="btn btn-outline-primary">Lihat Detail</a>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Web Apotek</h3>
+                                    <a href="#" data-toggle="modal" data-target="#apotek"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -250,11 +249,10 @@
                                             src="{{ asset('assets/images/portfolio/web/fruitman.png') }}" alt="#"
                                             width="280" height="180" /></a>
                                 </div>
-                                <div class="card-body">
-                                    <h5 class="card-title text-color">Web Fruitman</h5>
-                                    <p class="card-text text-justify">Sebuah web yang digunakan sebagai Admin untuk Aplikasi
-                                        mobile Fruitman yang bertugas mengelola users</p>
-                                    <a href="#" data-toggle="modal" data-target="#fruitman" class="btn btn-outline-primary">Lihat Detail</a>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Web Fruitman</h3>
+                                    <a href="#" data-toggle="modal" data-target="#fruitman"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -266,14 +264,10 @@
                                             src="{{ asset('assets/images/portfolio/web/sim.png') }}" alt="#" width="280"
                                             height="180" /></a>
                                 </div>
-                                <div class="card-body">
-                                    <h5 class="card-title text-color">Web SIMPENDI</h5>
-                                    <p class="card-text text-justify">
-                                        SIMPENDI merupakan singkatan dari Sistem Informasi Manajemen Penelitian dan
-                                        Pengabdian, web ini dibuat untuk mengelola
-                                        data penelitian dan pengabdian di kampus.
-                                    </p>
-                                    <a href="#" data-toggle="modal" data-target="#sim" class="btn btn-outline-primary">Lihat Detail</a>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Web SIMPENDI</h3>
+                                    <a href="#" data-toggle="modal" data-target="#sim" class="btn btn-sm btn-outline-primary">Lihat
+                                        Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -285,14 +279,10 @@
                                             src="{{ asset('assets/images/portfolio/web/travelme.png') }}" alt="#"
                                             width="280" height="180" /></a>
                                 </div>
-                                <div class="card-body">
-                                    <h5 class="card-title text-color">Web TravelMe</h5>
-                                    <p class="card-text text-justify">
-                                        Web TravelMe merupakan BackEnd dari mobile Apps <strong>TravelMe</strong>, web ini
-                                        digunakan untuk Admin dan juga pemilik
-                                        travel untuk mengelola data sopir, mobil, pesanan masuk, dan lain-lain.
-                                    </p>
-                                    <a href="#" data-toggle="modal" data-target="#travelme" class="btn btn-outline-primary">Lihat Detail</a>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Web TravelMe</h3>
+                                    <a href="#" data-toggle="modal" data-target="#travelme"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -304,14 +294,10 @@
                                             src="{{ asset('assets/images/portfolio/web/wartegku.png') }}" alt="#"
                                             width="280" height="180" /></a>
                                 </div>
-                                <div class="card-body">
-                                    <h5 class="card-title text-color">Web WartegKu</h5>
-                                    <p class="card-text text-justify">
-                                        Web WartegKu merupakan BackEnd dari mobile Apps <strong>WartegKu</strong> yang
-                                        digunakan untuk para pemilik warteg/warung makan
-                                        mengelola data makanan, pemesanan, dan lain-lain.
-                                    </p>
-                                    <a href="#" data-toggle="modal" data-target="#wartegku" class="btn btn-outline-primary">Lihat Detail</a>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Web WartegKu</h3>
+                                    <a href="#" data-toggle="modal" data-target="#wartegku"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -323,14 +309,10 @@
                                             src="{{ asset('assets/images/portfolio/web/enews.png') }}" alt="#" width="280"
                                             height="180" /></a>
                                 </div>
-                                <div class="card-body">
-                                    <h5 class="card-title text-color">Web E-News</h5>
-                                    <p class="card-text text-justify">
-                                        Web E-News merupakan sebuah website portal berita, dalam E-News ini tidak hanya
-                                        admin yang dapat membuat berita tetapi user/pengguna juga dapat
-                                        membuat berita
-                                    </p>
-                                    <a href="#" data-toggle="modal" data-target="#enews" class="btn btn-outline-primary">Lihat Detail</a>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Web E-News</h3>
+                                    <a href="#" data-toggle="modal" data-target="#enews"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -342,14 +324,10 @@
                                             src="{{ asset('assets/images/portfolio/web/evoting.png') }}" alt="#"
                                             width="280" height="180" /></a>
                                 </div>
-                                <div class="card-body">
-                                    <h5 class="card-title text-color">Web E-Voting OSIS</h5>
-                                    <p class="card-text text-justify">
-                                        Web E-Voting OSIS ini merupakan BackEnd dari <strong>Evoting OSIS Apps</strong> yang
-                                        digunakan Admin Sekolah untuk mengelola
-                                        data siswa, data kandidat, data jadwal pemiliha, dan lain-lain.
-                                    </p>
-                                    <a href="#" data-toggle="modal" data-target="#evoting" class="btn btn-outline-primary">Lihat Detail</a>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Web E-Voting OSIS</h3>
+                                    <a href="#" data-toggle="modal" data-target="#evoting"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -361,14 +339,10 @@
                                             src="{{ asset('assets/images/portfolio/web/gmc.png') }}" alt="#" width="280"
                                             height="180" /></a>
                                 </div>
-                                <div class="card-body">
-                                    <h5 class="card-title text-color">Web GMC</h5>
-                                    <p class="card-text text-justify">
-                                        Web GMC Merupakan BackEnd dari <strong>GMC Apps</strong>, Web ini digunakan untuk
-                                        admin GMC untuk mengelola data film bioskop,
-                                        jadwal tayang, studio, dan lain-lain.
-                                    </p>
-                                    <a href="#" data-toggle="modal" data-target="#gmc" class="btn btn-outline-primary">Lihat Detail</a>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Web GMC</h3>
+                                    <a href="#" data-toggle="modal" data-target="#gmc"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -377,16 +351,13 @@
                             <div class="card shadow p-3 light_bg">
                                 <div class="center">
                                     <a href="#" data-toggle="modal" data-target="#emaji"><img class="img-responsive"
-                                            src="{{ asset('assets/images/portfolio/web/emaji1.png') }}" alt="#" width="280"
-                                            height="180" /></a>
+                                            src="{{ asset('assets/images/portfolio/web/emaji1.png') }}" alt="#"
+                                            width="280" height="180" /></a>
                                 </div>
-                                <div class="card-body">
-                                    <h5 class="card-title text-color">Web E-Maji</h5>
-                                    <p class="card-text text-justify">
-                            Web Emaji adalah admin dari E-Maji Apps yang digunakan untuk mengelola data maintenance
-                            alat uji.
-                                    </p>
-                                    <a href="#" data-toggle="modal" data-target="#emaji" class="btn btn-outline-primary">Lihat Detail</a>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Web E-Maji</h3>
+                                    <a href="#" data-toggle="modal" data-target="#emaji"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -395,16 +366,13 @@
                             <div class="card shadow p-3 light_bg">
                                 <div class="center">
                                     <a href="#" data-toggle="modal" data-target="#felicity"><img class="img-responsive"
-                                            src="{{ asset('assets/images/portfolio/web/felicity1.png') }}" alt="#" width="280"
-                                            height="180" /></a>
+                                            src="{{ asset('assets/images/portfolio/web/felicity1.png') }}" alt="#"
+                                            width="280" height="180" /></a>
                                 </div>
-                                <div class="card-body">
-                                    <h5 class="card-title text-color">Web Felicity</h5>
-                                    <p class="card-text text-justify">
-                                        Web Felicity merupakan web profile dari sebuah perusahaan Felicity Media yang berasal dari India.
-
-                                    </p>
-                                    <a href="#" data-toggle="modal" data-target="#felicity" class="btn btn-outline-primary">Lihat Detail</a>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Web Felicity</h3>
+                                    <a href="#" data-toggle="modal" data-target="#felicity"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -413,29 +381,121 @@
                             <div class="card shadow p-3 light_bg">
                                 <div class="center">
                                     <a href="#" data-toggle="modal" data-target="#agroedufarm"><img class="img-responsive"
-                                            src="{{ asset('assets/images/portfolio/web/agroedufarm1.png') }}" alt="#" width="280"
-                                            height="180" /></a>
+                                            src="{{ asset('assets/images/portfolio/web/agroedufarm1.png') }}" alt="#"
+                                            width="280" height="180" /></a>
                                 </div>
-                                <div class="card-body">
-                                    <h5 class="card-title text-color">Web Agroedufarm</h5>
-                                    <p class="card-text text-justify">
-                                        Web Agroedufarm merupakan web profile untuk sebuah bisnis peternakan kambing/domba asal Bogor.
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Web Agroedufarm</h3>
+                                    <a href="#" data-toggle="modal" data-target="#agroedufarm"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
+                                </div>
+                            </div>
+                        </div>
 
-                                    </p>
-                                    <a href="#" data-toggle="modal" data-target="#agroedufarm" class="btn btn-outline-primary">Lihat Detail</a>
+                        <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                            <div class="card shadow p-3 light_bg">
+                                <div class="center">
+                                    <a href="#" data-toggle="modal" data-target="#alko"><img class="img-responsive"
+                                            src="{{ asset('assets/images/portfolio/web/alko3.png') }}" alt="#"
+                                            width="280" height="180" /></a>
+                                </div>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Admin Panel Alko</h3>
+                                    <a href="#" data-toggle="modal" data-target="#alko"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                            <div class="card shadow p-3 light_bg">
+                                <div class="center">
+                                    <a href="#" data-toggle="modal" data-target="#alko-compro"><img class="img-responsive"
+                                            src="{{ asset('assets/images/portfolio/web/alko-compro1.png') }}" alt="#"
+                                            width="280" height="180" /></a>
+                                </div>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Alko Company Profile</h3>
+                                    <a href="#" data-toggle="modal" data-target="#alko-compro"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                            <div class="card shadow p-3 light_bg">
+                                <div class="center">
+                                    <a href="#" data-toggle="modal" data-target="#pos"><img class="img-responsive"
+                                            src="{{ asset('assets/images/portfolio/web/pos1.png') }}" alt="#"
+                                            width="280" height="180" /></a>
+                                </div>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Point Of Sale</h3>
+                                    <a href="#" data-toggle="modal" data-target="#pos"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                            <div class="card shadow p-3 light_bg">
+                                <div class="center">
+                                    <a href="#" data-toggle="modal" data-target="#birdnest"><img class="img-responsive"
+                                            src="{{ asset('assets/images/portfolio/web/birdnest1.png') }}" alt="#"
+                                            width="280" height="180" /></a>
+                                </div>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Bird's Nest by Dundee</h3>
+                                    <a href="#" data-toggle="modal" data-target="#birdnest"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                            <div class="card shadow p-3 light_bg">
+                                <div class="center">
+                                    <a href="#" data-toggle="modal" data-target="#twentypicture"><img class="img-responsive"
+                                            src="{{ asset('assets/images/portfolio/web/twentypicture1.png') }}" alt="#"
+                                            width="280" height="180" /></a>
+                                </div>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Twenty Picture</h3>
+                                    <a href="#" data-toggle="modal" data-target="#twentypicture"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                            <div class="card shadow p-3 light_bg">
+                                <div class="center">
+                                    <a href="#" data-toggle="modal" data-target="#alko-mobile"><img class="img-responsive"
+                                            src="{{ asset('assets/images/portfolio/web/alko-mobile1.png') }}" alt="#"
+                                            width="280" height="180" /></a>
+                                </div>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Alko Mobile</h3>
+                                    <a href="#" data-toggle="modal" data-target="#alko-mobile"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
                                 </div>
                             </div>
                         </div>
 
                     </div>
                 </div>
+                <!------------ Portfolio Web ----------->
+
+
+                <!------------ Portfolio Android ----------->
                 <div class="tab-pane fade" id="apps" role="tabpanel" aria-labelledby="apps-tab">
                     <div class="row">
                         <div class="col-12 center">
                             <h4 class="text-color">Jasa Pembuatan Aplikasi Android</h4>
                         </div>
                         <div class="col-12 center">
-                            <p class="text-color">Selain membuat website, kami juga menerima jasa pembuatan aplikasi Android
+                            <p class="text-color">Selain membuat website, kami juga menerima jasa pembuatan aplikasi
+                                Android
                             </p>
                         </div>
                     </div>
@@ -448,7 +508,7 @@
                                             width="280" height="180" /></a>
                                 </div>
                                 <div class="card-body">
-                                    <h5 class="card-title text-color">Aplikasi Donor Darah</h5>
+                                    <h3 class="card-title text-color">Aplikasi Donor Darah</h3>
                                     <p class="card-text text-justify">
                                         Aplikasi Donor Darah ini digunakan para pendonor dan pencari donor darah.
                                     </p>
@@ -464,7 +524,7 @@
                                             width="280" height="180" /></a>
                                 </div>
                                 <div class="card-body">
-                                    <h5 class="card-title text-color">Aplikasi TravelMe</h5>
+                                    <h3 class="card-title text-color">Aplikasi TravelMe</h3>
                                     <p class="card-text text-justify">
                                         Aplikasi TravelMe ini digunakan pengguna untuk pencarian dan pemesanan travel.
                                     </p>
@@ -480,7 +540,7 @@
                                             width="280" height="180" /></a>
                                 </div>
                                 <div class="card-body">
-                                    <h5 class="card-title text-color">Aplikasi Meeting</h5>
+                                    <h3 class="card-title text-color">Aplikasi Meeting</h3>
                                     <p class="card-text text-justify">
                                         Aplikasi Meeting ini digunakan untuk pemesanan tempat meeting di daerah Tegal.
                                     </p>
@@ -498,7 +558,7 @@
                                             width="280" height="180" /></a>
                                 </div>
                                 <div class="card-body">
-                                    <h5 class="card-title text-color">Aplikasi E-News</h5>
+                                    <h3 class="card-title text-color">Aplikasi E-News</h3>
                                     <p class="card-text text-justify">
                                         Aplikasi E-News ini merupakan aplikasi portal berita dimana user dapat membaca dan
                                         membuat berita.
@@ -515,7 +575,7 @@
                                             width="280" height="180" /></a>
                                 </div>
                                 <div class="card-body">
-                                    <h5 class="card-title text-color">Aplikasi Fruitman</h5>
+                                    <h3 class="card-title text-color">Aplikasi Fruitman</h3>
                                     <p class="card-text text-justify">
                                         Aplikasi Fruitman ini digunakan untuk para pengepul dan penebas buah-buahan
                                         melakukan transaksi jual beli.
@@ -532,7 +592,7 @@
                                             width="280" height="180" /></a>
                                 </div>
                                 <div class="card-body">
-                                    <h5 class="card-title text-color">Aplikasi WartegKu</h5>
+                                    <h3 class="card-title text-color">Aplikasi WartegKu</h3>
                                     <p class="card-text text-justify">
                                         Aplikasi WartegKu digunakan untuk mempermudah pemilik warteg dan pembeli dalam
                                         menjual/membeli makanan.
@@ -543,6 +603,7 @@
 
                     </div>
                 </div>
+                <!------------ Portfolio Android ----------->
             </div>
         </div>
     </div>
@@ -559,6 +620,5 @@
         //     $('#img-preview').attr('src', img);
         //     $('#modal').modal('show')
         // });
-        
     </script>
 @endpush

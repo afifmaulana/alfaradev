@@ -46,15 +46,15 @@
                                   <h2 class="text-center text-color">Rp. 1.000.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Custom Design</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>5 Page</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Free Hosting 750MB (1 Tahun)</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Free Domain .com (1 Tahun)</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>2x Revisi</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Admin Panel</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Maintenance</li>
-                                    <li><span class="fa-li"><i class="fas fa-times"></i></span>Akses CPanel</li>
-                                    <li><span class="fa-li"><i class="fas fa-times"></i></span>Garansi</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Design</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>5 Page</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Free Hosting 750MB (1 Tahun)</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Free Domain .com (1 Tahun)</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>2x Revisi</li>
+                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Admin Panel</li>
+                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Maintenance</li>
+                                    <li><span class="fa-li"><i class="fa fa-times"></i></span>Akses CPanel</li>
+                                    <li><span class="fa-li"><i class="fa fa-times"></i></span>Garansi</li>
                                   </ul>
                                   <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Basic%20Company%20Profile." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
@@ -68,15 +68,15 @@
                                   <h2 class="text-center text-color">Rp. 2.000.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Custom Design</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Unlimited Page</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Free Hosting 750MB (1 Tahun)</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Free Domain .com (1 Tahun)</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>3x Revisi</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Admin Panel</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Maintenance</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Akses CPanel</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Garansi 2 Minggu</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Design</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Unlimited Page</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Free Hosting 750MB (1 Tahun)</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Free Domain .com (1 Tahun)</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>3x Revisi</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Admin Panel</li>
+                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Maintenance</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Akses CPanel</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Garansi 2 Minggu</li>
                                   </ul>
                                   <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Standart%20Company%20Profile." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
@@ -90,15 +90,15 @@
                                   <h2 class="text-center text-color">Rp. 3.500.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Custom Design</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Unlimited Page</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span><strong>Free Hosting 2GB (1 Tahun)</strong></li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Free Domain .com (1 Tahun)</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>5x Revisi</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Admin Panel</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Maintenance (1 Bulan)</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Akses CPanel</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Garansi 1 Bulan</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Design</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Unlimited Page</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span><strong>Free Hosting 2GB (1 Tahun)</strong></li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Free Domain .com (1 Tahun)</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>5x Revisi</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Admin Panel</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Maintenance (1 Bulan)</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Akses CPanel</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Garansi 1 Bulan</li>
 
                                   </ul>
                                   <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Premium%20Company%20Profile." class="btn btn-block btn-primary text-uppercase">Pesan</a>
@@ -125,15 +125,15 @@
                                   <h2 class="text-center text-color">Rp. 1.500.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Custom Design</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>7 Page</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Free Hosting 750MB (1 Tahun)</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Free Domain .com (1 Tahun)</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>3x Revisi</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Landing Page</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Maintenance</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Akses CPanel</li>
-                                    <li><span class="fa-li"><i class="fas fa-times"></i></span>Garansi</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Design</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>7 Page</li>
+                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Free Hosting 750MB (1 Tahun)</li>
+                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Free Domain .com (1 Tahun)</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>3x Revisi</li>
+                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Landing Page</li>
+                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Maintenance</li>
+                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Akses CPanel</li>
+                                    <li><span class="fa-li"><i class="fa fa-times"></i></span>Garansi</li>
                                   </ul>
                                   <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Basic%20Pembuatan%20Admin%20Panel." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
@@ -147,15 +147,15 @@
                                   <h2 class="text-center text-color">Rp. 3.500.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Custom Design</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Unlimited Page</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Free Hosting 750MB (1 Tahun)</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Free Domain .com (1 Tahun)</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>3x Revisi</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Landing Page</li>
-                                    <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Maintenance</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Akses CPanel</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Garansi 3 Minggu</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Design</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Unlimited Page</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Free Hosting 750MB (1 Tahun)</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Free Domain .com (1 Tahun)</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>3x Revisi</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Landing Page</li>
+                                    <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Maintenance</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Akses CPanel</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Garansi 3 Minggu</li>
                                   </ul>
                                   <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Standart%20Pembuatan%20Admin%20Panel." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>
@@ -169,15 +169,15 @@
                                   <h2 class="text-center text-color">Rp. 5.000.000,-</h2>
                                   <hr>
                                   <ul class="fa-ul">
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Custom Design</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Unlimited Page</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span><strong>Free Hosting 2GB (1 Tahun)</strong></li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Free Custom Domain (1 Tahun)</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>5x Revisi</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Landing Page</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Maintenance (1 Bulan)</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Akses CPanel</li>
-                                    <li><span class="fa-li"><i class="fas fa-check"></i></span>Garansi 2 Bulan</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Design</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Unlimited Page</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span><strong>Free Hosting 2GB (1 Tahun)</strong></li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Free Custom Domain (1 Tahun)</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>5x Revisi</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Landing Page</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Maintenance (1 Bulan)</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Akses CPanel</li>
+                                    <li><span class="fa-li"><i class="fa fa-check"></i></span>Garansi 2 Bulan</li>
                                   </ul>
                                   <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20paket%20Premium%20Pembuatan%20Admin%20Panel." class="btn btn-block btn-primary text-uppercase">Pesan</a>
                                 </div>

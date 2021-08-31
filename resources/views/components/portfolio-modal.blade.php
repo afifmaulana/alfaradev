@@ -1,7 +1,6 @@
-<!-- Start Modal-->
+    <!-- Start Modal-->
     <!-- Modal Web Masna-->
-    <div class="modal fade" id="masna" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="masna" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -18,12 +17,12 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/masna1.png') }}"
-                                    alt="First slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/masna1.png') }}" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/masna2.png') }}"
-                                    alt="Second slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/masna2.png') }}" alt="Second slide">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#caresoulmasna" role="button" data-slide="prev">
@@ -37,12 +36,14 @@
                     </div>
                     <hr>
                     <div>
-                        <h6>Web Profile Masna merupakan sebuah web untuk seorang Cosmetology Engineering dari Brebes, Jawa
+                        <h6>Web Profile Masna merupakan sebuah web untuk seorang Cosmetology Engineering dari Brebes,
+                            Jawa
                             Tengah.</h6>
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <a href="https://masnadita.github.io/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                    <a href="https://masnadita.github.io/" class="btn btn-outline-primary" target="_blank">Lihat
+                        Situs</a>
                 </div>
             </div>
         </div>
@@ -50,8 +51,7 @@
     <!-- End Modal Web Masna-->
 
     <!-- Modal Web Apotek-->
-    <div class="modal fade" id="apotek" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="apotek" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -68,12 +68,12 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/apotek1.png') }}"
-                                    alt="First slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/apotek1.png') }}" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/apotek2.png') }}"
-                                    alt="Second slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/apotek2.png') }}" alt="Second slide">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#caresoulapotek" role="button" data-slide="prev">
@@ -100,8 +100,7 @@
     <!-- End Modal Web Apotek-->
 
     <!-- Modal Web Fruitman-->
-    <div class="modal fade" id="fruitman" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="fruitman" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -118,12 +117,12 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/fruitman1.png') }}"
-                                    alt="First slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/fruitman1.png') }}" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/fruitman2.png') }}"
-                                    alt="Second slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/fruitman2.png') }}" alt="Second slide">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#caresoulfruitman" role="button" data-slide="prev">
@@ -150,8 +149,7 @@
     <!-- End Modal Web Fruitman-->
 
     <!-- Modal Web SIMPENDI-->
-    <div class="modal fade" id="sim" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="sim" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -201,8 +199,7 @@
     <!-- End Modal Web SIMPENDI-->
 
     <!-- Modal Web TravelMe-->
-    <div class="modal fade" id="travelme" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="travelme" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -219,12 +216,12 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/travelme1.png') }}"
-                                    alt="First slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/travelme1.png') }}" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/travelme2.png') }}"
-                                    alt="Second slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/travelme2.png') }}" alt="Second slide">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#caresoultravelme" role="button" data-slide="prev">
@@ -252,8 +249,7 @@
     <!-- End Modal Web TravelMe-->
 
     <!-- Modal Web WartegKu-->
-    <div class="modal fade" id="wartegku" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="wartegku" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -270,11 +266,12 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/wartegku1.png') }}"
-                                    alt="First slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/wartegku1.png') }}" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/wartegku2.png') }}"
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/wartegku2.png') }}"
                                     alt="Second slide">
                             </div>
                         </div>
@@ -295,7 +292,8 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <a href="https://wartegku.herokuapp.com/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                    <a href="https://wartegku.herokuapp.com/" class="btn btn-outline-primary" target="_blank">Lihat
+                        Situs</a>
                 </div>
             </div>
         </div>
@@ -303,8 +301,7 @@
     <!-- End Modal Web WartegKu-->
 
     <!-- Modal Web E-News -->
-    <div class="modal fade" id="enews" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="enews" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -321,12 +318,12 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/enews1.png') }}"
-                                    alt="First slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/enews1.png') }}" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/enews2.png') }}"
-                                    alt="Second slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/enews2.png') }}" alt="Second slide">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#caresoulenews" role="button" data-slide="prev">
@@ -354,8 +351,7 @@
     <!-- End Modal Web E-News -->
 
     <!-- Modal Web E-Voting -->
-    <div class="modal fade" id="evoting" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="evoting" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -374,20 +370,20 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/evoting1.png') }}"
-                                    alt="First slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/evoting1.png') }}" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/evoting2.png') }}"
-                                    alt="Second slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/evoting2.png') }}" alt="Second slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/evoting3.png') }}"
-                                    alt="">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/evoting3.png') }}" alt="">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/evoting4.png') }}"
-                                    alt="">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/evoting4.png') }}" alt="">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#caresoulevoting" role="button" data-slide="prev">
@@ -407,7 +403,8 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <a href="https://evoting-osis.herokuapp.com/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                    <a href="https://evoting-osis.herokuapp.com/" class="btn btn-outline-primary" target="_blank">Lihat
+                        Situs</a>
                 </div>
             </div>
         </div>
@@ -415,8 +412,7 @@
     <!-- End Modal Web E-Voting -->
 
     <!-- Modal Web GMC -->
-    <div class="modal fade" id="gmc" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="gmc" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -433,12 +429,12 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/gmc1.png') }}"
-                                    alt="First slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/gmc1.png') }}" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/gmc2.png') }}"
-                                    alt="Second slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/gmc2.png') }}" alt="Second slide">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#caresoulegmc" role="button" data-slide="prev">
@@ -458,7 +454,8 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <a href="https://gmcweb.herokuapp.com/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                    <a href="https://gmcweb.herokuapp.com/" class="btn btn-outline-primary" target="_blank">Lihat
+                        Situs</a>
                 </div>
             </div>
         </div>
@@ -466,8 +463,7 @@
     <!-- End Modal Web GMC -->
 
     <!-- Modal Web E-Maji -->
-    <div class="modal fade" id="emaji" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="emaji" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -484,12 +480,12 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/emaji1.png') }}"
-                                    alt="First slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/emaji1.png') }}" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/emaji2.png') }}"
-                                    alt="Second slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/emaji2.png') }}" alt="Second slide">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#caresouleemaji" role="button" data-slide="prev">
@@ -509,7 +505,8 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <a href="https://e-maji.herokuapp.com/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                    <a href="https://e-maji.herokuapp.com/" class="btn btn-outline-primary" target="_blank">Lihat
+                        Situs</a>
                 </div>
             </div>
         </div>
@@ -517,8 +514,7 @@
     <!-- End Modal Web E-Maji -->
 
     <!-- Modal Web Felicity -->
-    <div class="modal fade" id="felicity" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="felicity" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -535,11 +531,12 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/felicity1.png') }}"
-                                    alt="First slide">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/felicity1.png') }}" alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/felicity2.png') }}"
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/felicity2.png') }}"
                                     alt="Second slide">
                             </div>
                         </div>
@@ -559,7 +556,8 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <a href="http://ui-felicity.herokuapp.com/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                    <a href="http://ui-felicity.herokuapp.com/" class="btn btn-outline-primary" target="_blank">Lihat
+                        Situs</a>
                 </div>
             </div>
         </div>
@@ -585,11 +583,13 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/agroedufarm1.png') }}"
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/agroedufarm1.png') }}"
                                     alt="First slide">
                             </div>
                             <div class="carousel-item">
-                                <img class="d-block w-100" src="{{ asset('assets/images/portfolio/web/agroedufarm2.png') }}"
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/agroedufarm2.png') }}"
                                     alt="Second slide">
                             </div>
                         </div>
@@ -604,7 +604,8 @@
                     </div>
                     <hr>
                     <div>
-                        <h6>Web Agroedufarm merupakan web profile untuk sebuah bisnis peternakan kambing/domba asal Bogor.
+                        <h6>Web Agroedufarm merupakan web profile untuk sebuah bisnis peternakan kambing/domba asal
+                            Bogor.
                         </h6>
                     </div>
                 </div>
@@ -616,5 +617,331 @@
     </div>
     <!-- End Modal Web Agroedufarm -->
 
-<!-- End Modal -->
+    <!-- Modal Web alko admin panel -->
+    <div class="modal fade" id="alko" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="title">Web alko</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body container">
+                    <div id="caresoulealko" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#caresoulealko" data-slide-to="0" class="active"></li>
+                            <li data-target="#caresoulealko" data-slide-to="1"></li>
+                            <li data-target="#caresoulealko" data-slide-to="2"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/alko3.png') }}" alt="First slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/alko2.png') }}" alt="Second slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/alko1.png') }}" alt="Third slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#caresoulealko" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#caresoulealko" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                    <hr>
+                    <div>
+                        <h6>Admin Panel Alko dibuat untuk mengelola data website company profile Alko Sumatra Kopi
+                        </h6>
+                    </div>
+                </div>
+                {{-- <div class="modal-footer">
+                        <a href="https://alko.id/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                    </div> --}}
+            </div>
+        </div>
+    </div>
+    <!-- End Modal Web alko admin panel -->
 
+
+    <!-- Modal Web alko -->
+    <div class="modal fade" id="alko-compro" tabindex="-1" role="dialog" aria-labelledby="title"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="title">Alko Company Profile</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body container">
+                    <div id="caresoulealko-compro" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#caresoulealko-compro" data-slide-to="0" class="active"></li>
+                            <li data-target="#caresoulealko-compro" data-slide-to="1"></li>
+                            <li data-target="#caresoulealko-compro" data-slide-to="2"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/alko-compro1.png') }}"
+                                    alt="First slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/alko-compro2.png') }}"
+                                    alt="Second slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/alko-compro3.png') }}"
+                                    alt="Third slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#caresoulealko-compro" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#caresoulealko-compro" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                    <hr>
+                    <div>
+                        <h6>Alko Company profile merupakan website perusahaan kopi asal Sumatra yang produknya sudah
+                            diekspor ke berbagai negara.
+                        </h6>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <a href="https://alko.id/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Modal Web alko -->
+
+    <!-- Modal Web POS -->
+    <div class="modal fade" id="pos" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="title">Point Of Sale</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body container">
+                    <div id="caresoulepos" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#caresoulepos" data-slide-to="0" class="active"></li>
+                            <li data-target="#caresoulepos" data-slide-to="1"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/pos1.png') }}" alt="First slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/pos2.png') }}" alt="Second slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#caresoulepos" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#caresoulepos" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                    <hr>
+                    <div>
+                        <h6>Sistem penjualan berbasis website yang memiliki 3 user yaitu admin, company, dan kasir.
+                        </h6>
+                    </div>
+                </div>
+                {{-- <div class="modal-footer">
+                        <a href="https://alko.id/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                    </div> --}}
+            </div>
+        </div>
+    </div>
+    <!-- End Modal Web POS -->
+
+    <!-- Modal Web birdnest -->
+    <div class="modal fade" id="birdnest" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="title">Bird's Nest by Dundee</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body container">
+                    <div id="caresoulebirdnest" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#caresoulebirdnest" data-slide-to="0" class="active"></li>
+                            <li data-target="#caresoulebirdnest" data-slide-to="1"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/birdnest1.png') }}" alt="First slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/birdnest2.png') }}"
+                                    alt="Second slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#caresoulebirdnest" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#caresoulebirdnest" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                    <hr>
+                    <div>
+                        <h6>Sistem penjualan berbasis website yang memiliki 3 user yaitu admin, company, dan kasir.
+                        </h6>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <a href="https://www.birdnest-dundee.xyz/" class="btn btn-outline-primary" target="_blank">Lihat
+                        Situs</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Modal Web birdnest -->
+
+    <!-- Modal Web twentypicture -->
+    <div class="modal fade" id="twentypicture" tabindex="-1" role="dialog" aria-labelledby="title"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="title">Twenty Picture</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body container">
+                    <div id="caresouletwentypicture" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#caresouletwentypicture" data-slide-to="0" class="active"></li>
+                            <li data-target="#caresouletwentypicture" data-slide-to="1"></li>
+                            <li data-target="#caresouletwentypicture" data-slide-to="2"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/twentypicture1.png') }}"
+                                    alt="First slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/twentypicture2.png') }}"
+                                    alt="Second slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/twentypicture2.png') }}"
+                                    alt="Second slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#caresouletwentypicture" role="button"
+                            data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#caresouletwentypicture" role="button"
+                            data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                    <hr>
+                    <div>
+                        <h6>Sebuah website company profile Twenty Picture yang bergerak di bidang jasa photo, video
+                            (prewedding, wedding, maternity, engagement, dll)
+                        </h6>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <a href="http://twentypicture.id/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Modal Web twentypicture -->
+
+
+    <!-- Modal Web alko-mobile -->
+    <div class="modal fade" id="alko-mobile" tabindex="-1" role="dialog" aria-labelledby="title"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="title">Alko Mobile</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body container">
+                    <div id="caresoulealko-mobile" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#caresoulealko-mobile" data-slide-to="0" class="active"></li>
+                            <li data-target="#caresoulealko-mobile" data-slide-to="1"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/alko-mobile1.png') }}"
+                                    alt="First slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/alko-mobile2.png') }}"
+                                    alt="Second slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#caresoulealko-mobile" role="button"
+                            data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#caresoulealko-mobile" role="button"
+                            data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                    <hr>
+                    <div>
+                        <h6>Alko Mobile merupakan backoffice dari sistem penjualan kopi Alko yang digunakan untuk mengelola data penjualan atau pembelian kopi.
+                        </h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Modal Web alko-mobile -->
+
+    <!-- End Modal -->

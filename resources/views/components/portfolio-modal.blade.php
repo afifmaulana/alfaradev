@@ -922,20 +922,19 @@
                                     alt="Second slide">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#caresoulealko-mobile" role="button"
-                            data-slide="prev">
+                        <a class="carousel-control-prev" href="#caresoulealko-mobile" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#caresoulealko-mobile" role="button"
-                            data-slide="next">
+                        <a class="carousel-control-next" href="#caresoulealko-mobile" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
                     </div>
                     <hr>
                     <div>
-                        <h6>Alko Mobile merupakan backoffice dari sistem penjualan kopi Alko yang digunakan untuk mengelola data penjualan atau pembelian kopi.
+                        <h6>Alko Mobile merupakan backoffice dari sistem penjualan kopi Alko yang digunakan untuk
+                            mengelola data penjualan atau pembelian kopi.
                         </h6>
                     </div>
                 </div>
@@ -945,8 +944,7 @@
     <!-- End Modal Web alko-mobile -->
 
     <!-- Modal Web mmq -->
-    <div class="modal fade" id="mmq" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="mmq" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -965,39 +963,36 @@
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <img class="d-block w-100"
-                                    src="{{ asset('assets/images/portfolio/web/mmq1.png') }}"
-                                    alt="First slide">
+                                    src="{{ asset('assets/images/portfolio/web/mmq1.png') }}" alt="First slide">
                             </div>
                             <div class="carousel-item">
                                 <img class="d-block w-100"
-                                    src="{{ asset('assets/images/portfolio/web/mmq2.png') }}"
-                                    alt="Second slide">
+                                    src="{{ asset('assets/images/portfolio/web/mmq2.png') }}" alt="Second slide">
                             </div>
                             <div class="carousel-item">
                                 <img class="d-block w-100"
-                                    src="{{ asset('assets/images/portfolio/web/mmq3.png') }}"
-                                    alt="Third slide">
+                                    src="{{ asset('assets/images/portfolio/web/mmq3.png') }}" alt="Third slide">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#caresoulemmq" role="button"
-                            data-slide="prev">
+                        <a class="carousel-control-prev" href="#caresoulemmq" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#caresoulemmq" role="button"
-                            data-slide="next">
+                        <a class="carousel-control-next" href="#caresoulemmq" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
                     </div>
                     <hr>
                     <div>
-                        <h6>Sebuah Website yang dibuat untuk pengelolaan data santri, alumni, kegiatan yang ada di majelis MMQ Pakijangan
+                        <h6>Sebuah Website yang dibuat untuk pengelolaan data santri, alumni, kegiatan yang ada di
+                            majelis MMQ Pakijangan
                         </h6>
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <a href="https://mmq-pakijangan.com/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                    <a href="https://mmq-pakijangan.com/" class="btn btn-outline-primary" target="_blank">Lihat
+                        Situs</a>
                 </div>
             </div>
         </div>
@@ -1005,8 +1000,7 @@
     <!-- End Modal Web mmq -->
 
     <!-- Modal Web yumangbali -->
-    <div class="modal fade" id="yumangbali" tabindex="-1" role="dialog" aria-labelledby="title"
-        aria-hidden="true">
+    <div class="modal fade" id="yumangbali" tabindex="-1" role="dialog" aria-labelledby="title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -1033,25 +1027,25 @@
                                     alt="Second slide">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#caresouleyumangbali" role="button"
-                            data-slide="prev">
+                        <a class="carousel-control-prev" href="#caresouleyumangbali" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#caresouleyumangbali" role="button"
-                            data-slide="next">
+                        <a class="carousel-control-next" href="#caresouleyumangbali" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
                     </div>
                     <hr>
                     <div>
-                        <h6>Website sebuah usaha catering makanan (Yumang Bali) yang pelayanannya dilakukan secara online.
+                        <h6>Website sebuah usaha catering makanan (Yumang Bali) yang pelayanannya dilakukan secara
+                            online.
                         </h6>
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <a href="https://yumangbali.alfara-dev.com/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                    <a href="https://yumangbali.alfara-dev.com/" class="btn btn-outline-primary" target="_blank">Lihat
+                        Situs</a>
                 </div>
             </div>
         </div>
@@ -1087,13 +1081,11 @@
                                     alt="Second slide">
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#caresoulemasarinexim" role="button"
-                            data-slide="prev">
+                        <a class="carousel-control-prev" href="#caresoulemasarinexim" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#caresoulemasarinexim" role="button"
-                            data-slide="next">
+                        <a class="carousel-control-next" href="#caresoulemasarinexim" role="button" data-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
@@ -1105,7 +1097,8 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <a href="https://www.masarinexim.com/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                    <a href="https://www.masarinexim.com/" class="btn btn-outline-primary" target="_blank">Lihat
+                        Situs</a>
                 </div>
             </div>
         </div>

@@ -78,7 +78,7 @@
                 <p class="text-color text-justify">Alfara Dev merupakan tim Web Developer yang menerima  jasa pembuatan website dan android yang bertempat di kota tegal.
                     Alfara Dev memiliki tim yang profesional dalam pembuatan website, kami selalu memberikan yang terbaik
                     kepada klien kami. Sudah banyak project yang sudah kami selesaikan.
-                    Terima kasih sudah mempercayakan kami dalam menyesaikan masalah dalam kebutuhan bisnis anda.</p>
+                    Terima kasih sudah mempercayakan kami dalam menyelesaikan masalah dalam kebutuhan bisnis anda.</p>
                 <a href="https://wa.me/6285156805245?text=Halo,%20Saya%20tertarik%20dengan%20jasa%20Anda,%20boleh%20saya%20tanya-tanya%20dulu?" class="hvr-radial-out button-theme">Hubungi Kami ></a>
             </div>
         </div>

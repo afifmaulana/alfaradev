@@ -482,6 +482,51 @@
                             </div>
                         </div>
 
+                        <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                            <div class="card shadow p-3 light_bg">
+                                <div class="center">
+                                    <a href="#" data-toggle="modal" data-target="#mmq"><img class="img-responsive"
+                                            src="{{ asset('assets/images/portfolio/web/mmq1.png') }}" alt="#"
+                                            width="280" height="180" /></a>
+                                </div>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">MMQ Pakijangan</h3>
+                                    <a href="#" data-toggle="modal" data-target="#mmq"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                            <div class="card shadow p-3 light_bg">
+                                <div class="center">
+                                    <a href="#" data-toggle="modal" data-target="#yumangbali"><img class="img-responsive"
+                                            src="{{ asset('assets/images/portfolio/web/yumangbali1.png') }}" alt="#"
+                                            width="280" height="180" /></a>
+                                </div>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">Yumang Bali</h3>
+                                    <a href="#" data-toggle="modal" data-target="#yumangbali"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
+                            <div class="card shadow p-3 light_bg">
+                                <div class="center">
+                                    <a href="#" data-toggle="modal" data-target="#masarinexim"><img class="img-responsive"
+                                            src="{{ asset('assets/images/portfolio/web/masarinexim1.png') }}" alt="#"
+                                            width="280" height="180" /></a>
+                                </div>
+                                <div class="card-body text-center">
+                                    <h3 class="card-title text-color">PT Masarin Exim Bersama</h3>
+                                    <a href="#" data-toggle="modal" data-target="#masarinexim"
+                                        class="btn btn-sm btn-outline-primary">Lihat Detail</a>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
                 <!------------ Portfolio Web ----------->

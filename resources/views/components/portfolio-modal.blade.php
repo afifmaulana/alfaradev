@@ -944,4 +944,172 @@
     </div>
     <!-- End Modal Web alko-mobile -->
 
+    <!-- Modal Web mmq -->
+    <div class="modal fade" id="mmq" tabindex="-1" role="dialog" aria-labelledby="title"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="title">MMQ Pakijangan</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body container">
+                    <div id="caresoulemmq" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#caresoulemmq" data-slide-to="0" class="active"></li>
+                            <li data-target="#caresoulemmq" data-slide-to="1"></li>
+                            <li data-target="#caresoulemmq" data-slide-to="2"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/mmq1.png') }}"
+                                    alt="First slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/mmq2.png') }}"
+                                    alt="Second slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/mmq3.png') }}"
+                                    alt="Third slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#caresoulemmq" role="button"
+                            data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#caresoulemmq" role="button"
+                            data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                    <hr>
+                    <div>
+                        <h6>Sebuah Website yang dibuat untuk pengelolaan data santri, alumni, kegiatan yang ada di majelis MMQ Pakijangan
+                        </h6>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <a href="https://mmq-pakijangan.com/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Modal Web mmq -->
+
+    <!-- Modal Web yumangbali -->
+    <div class="modal fade" id="yumangbali" tabindex="-1" role="dialog" aria-labelledby="title"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="title">Yumang Bali</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body container">
+                    <div id="caresouleyumangbali" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#caresouleyumangbali" data-slide-to="0" class="active"></li>
+                            <li data-target="#caresouleyumangbali" data-slide-to="1"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/yumangbali1.png') }}"
+                                    alt="First slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/yumangbali2.png') }}"
+                                    alt="Second slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#caresouleyumangbali" role="button"
+                            data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#caresouleyumangbali" role="button"
+                            data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                    <hr>
+                    <div>
+                        <h6>Website sebuah usaha catering makanan (Yumang Bali) yang pelayanannya dilakukan secara online.
+                        </h6>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <a href="https://yumangbali.alfara-dev.com/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Modal Web yumangbali -->
+
+    <!-- Modal Web masarinexim -->
+    <div class="modal fade" id="masarinexim" tabindex="-1" role="dialog" aria-labelledby="title"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="title">PT Masarine Exim Bersama</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body container">
+                    <div id="caresoulemasarinexim" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#caresoulemasarinexim" data-slide-to="0" class="active"></li>
+                            <li data-target="#caresoulemasarinexim" data-slide-to="1"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/masarinexim1.png') }}"
+                                    alt="First slide">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="{{ asset('assets/images/portfolio/web/masarinexim2.png') }}"
+                                    alt="Second slide">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#caresoulemasarinexim" role="button"
+                            data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#caresoulemasarinexim" role="button"
+                            data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                    <hr>
+                    <div>
+                        <h6>Website Company Profile PT Masarine Exim Bersama
+                        </h6>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <a href="https://www.masarinexim.com/" class="btn btn-outline-primary" target="_blank">Lihat Situs</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Modal Web masarinexim -->
+
     <!-- End Modal -->

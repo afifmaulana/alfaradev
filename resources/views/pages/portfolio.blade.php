@@ -266,7 +266,8 @@
                                 </div>
                                 <div class="card-body text-center">
                                     <h3 class="card-title text-color">Web SIMPENDI</h3>
-                                    <a href="#" data-toggle="modal" data-target="#sim" class="btn btn-sm btn-outline-primary">Lihat
+                                    <a href="#" data-toggle="modal" data-target="#sim"
+                                        class="btn btn-sm btn-outline-primary">Lihat
                                         Detail</a>
                                 </div>
                             </div>
@@ -426,8 +427,8 @@
                             <div class="card shadow p-3 light_bg">
                                 <div class="center">
                                     <a href="#" data-toggle="modal" data-target="#pos"><img class="img-responsive"
-                                            src="{{ asset('assets/images/portfolio/web/pos1.png') }}" alt="#"
-                                            width="280" height="180" /></a>
+                                            src="{{ asset('assets/images/portfolio/web/pos1.png') }}" alt="#" width="280"
+                                            height="180" /></a>
                                 </div>
                                 <div class="card-body text-center">
                                     <h3 class="card-title text-color">Point Of Sale</h3>
@@ -455,7 +456,8 @@
                         <div class="col-lg-4 col-md-4 col-sm-12 mb-3">
                             <div class="card shadow p-3 light_bg">
                                 <div class="center">
-                                    <a href="#" data-toggle="modal" data-target="#twentypicture"><img class="img-responsive"
+                                    <a href="#" data-toggle="modal" data-target="#twentypicture"><img
+                                            class="img-responsive"
                                             src="{{ asset('assets/images/portfolio/web/twentypicture1.png') }}" alt="#"
                                             width="280" height="180" /></a>
                                 </div>
@@ -486,8 +488,8 @@
                             <div class="card shadow p-3 light_bg">
                                 <div class="center">
                                     <a href="#" data-toggle="modal" data-target="#mmq"><img class="img-responsive"
-                                            src="{{ asset('assets/images/portfolio/web/mmq1.png') }}" alt="#"
-                                            width="280" height="180" /></a>
+                                            src="{{ asset('assets/images/portfolio/web/mmq1.png') }}" alt="#" width="280"
+                                            height="180" /></a>
                                 </div>
                                 <div class="card-body text-center">
                                     <h3 class="card-title text-color">MMQ Pakijangan</h3>

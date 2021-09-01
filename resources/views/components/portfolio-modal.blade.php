@@ -818,7 +818,7 @@
                     </div>
                     <hr>
                     <div>
-                        <h6>Sistem penjualan berbasis website yang memiliki 3 user yaitu admin, company, dan kasir.
+                        <h6>Sebuah Website yang menampilkan katalog produk/menu baru dari Dundee Restaurant Surabaya
                         </h6>
                     </div>
                 </div>
